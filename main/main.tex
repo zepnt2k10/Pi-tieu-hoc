@@ -1,0 +1,225 @@
+\documentclass[12pt,a5paper]{article} 
+\usepackage[top=2truecm,bottom=2.5truecm, left=2truecm, right=2truecm,headsep=10pt]{geometry}  
+ 
+\setlength{\parindent}{0cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy} 
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{$\color{black}\thepage$}
+
+\usepackage[utf8]{vietnam}
+\usepackage{pdfpages}
+\usepackage{mathptmx}
+\usepackage{ebgaramond}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{makecell}
+\usepackage{adjustbox}
+\usepackage[framemethod=tikz]{mdframed} 
+\usepackage{tikz} 
+\usepackage{eso-pic}
+\usepackage{changepage}
+\usepackage{amsmath,amsfonts,amssymb,amsthm} 
+\usepackage{xcolor, colortbl}
+
+\definecolor{codienhiendai}{cmyk}{0.72, 0, 0.42, 0.1}
+\definecolor{thachthuctoanhoc}{cmyk}{0.87, 0.46, 0.69, 0.31}
+\definecolor{diendantoanhoc}{cmyk}{0.75, 0, 0.7, 0}
+\definecolor{timhieukhoahoc}{cmyk}{0.84, 0.7, 0, 0}
+\definecolor{quantoan}{cmyk}{0.8, 0.57, 0, 0}
+\definecolor{cackithi}{cmyk}{0.7, 0.35, 0, 0}
+\definecolor{hoccungpi}{cmyk}{0.67, 0.6, 0, 0}
+\definecolor{gocco}{cmyk}{0.65, 0.78, 0, 0}
+\definecolor{toancuabi}{cmyk}{0, 1, 0, 0}
+\definecolor{doithoaitoanhoc}{cmyk}{0.05, 0.25, 0.98 ,0}
+\definecolor{duongvaotoanhoc}{cmyk}{0, 0.7, 0.9, 0}
+\definecolor{toanhocdoisong}{cmyk}{0 , 0.93, 1, 0}
+\definecolor{tramthienvan}{cmyk}{0, 0.98, 0.95, 0}
+\definecolor{lichsutoanhoc}{cmyk}{0.35, 0.5, 0.8, 0.1}
+\definecolor{doisongtoanhoc}{cmyk}{0.25, 0.3, 0.5, 0.1}
+\definecolor{ocre}{RGB}{52,177,201} 
+
+\everymath{\color{toancuabi}}
+\setlength\columnsep{15pt}
+
+\newcommand{\insertpic}[4]{
+	\begingroup
+	\AddToShipoutPicture*{\put(#1,#2){\includegraphics[scale=#3]{#4}}} % %Image background
+	\centering
+	\endgroup
+}
+
+\usepackage{hyperref}
+\definecolor{ultramarine}{RGB}{0,32,96}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=black,      
+	urlcolor=ultramarine,
+	bookmarks=ultramarine,,
+	citecolor=ultramarine,
+}
+
+\tikzset{
+	mystyle/.style={
+		below,
+		yshift=-0.5cm,
+		text width=1.2cm,
+		align=center
+	}
+}
+
+\newmdenv[skipabove=7pt,
+skipbelow=7pt,
+linecolor=ocre,
+leftline=true,
+innerleftmargin=6pt,
+innerrightmargin=6pt,
+innertopmargin=8pt,
+leftmargin=0cm,
+rightmargin=0cm,
+innerbottommargin=8pt]{thBox}
+
+\begin{document}	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN I. CHƠI CÙNG BI}
+	\end{center}
+	\newpage
+	
+%	\setcounter{page}{1}
+	\input{../choicungbi/gapvacathinh}
+	\input{../choicungbi/tangram}
+	\input{../choicungbi/boxephinh}
+	\input{../choicungbi/domino1}
+	\input{../choicungbi/domino2}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi6_2021}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN II. GIẢI TOÁN CÙNG BI}
+	\end{center}
+	\newpage
+
+	\input{../giaitoancungbi/robin}
+	\input{../giaitoancungbi/traodoi}
+	\input{../giaitoancungbi/mitdac}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi7_2019}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage	
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN III. SUY LUẬN CÙNG BI}
+	\end{center}
+	\newpage
+
+	\input{../suyluancungbi/sumivachiecla}
+	\input{../suyluancungbi/sudoku1}
+	\input{../suyluancungbi/sudoku2}
+	\input{../suyluancungbi/xuanphong}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi6_2019}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage	
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN IV: TÌM HIỂU CÙNG BI}
+	\end{center}
+	\newpage
+
+	\input{../timhieucungbi/quansatcackhoihinh}
+	\input{../timhieucungbi/hoclamthamtu}
+	\input{../timhieucungbi/demtamgiac1}
+	\input{../timhieucungbi/demtamgiac2}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi8_2019}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage	
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN V. TÌM HIỂU LỊCH SỬ TOÁN CÙNG BI}
+	\end{center}
+	\newpage
+
+	\input{../timhieulichsu/timhieulichsu}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi9_2019}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN VI. BI ĐI THI HỌC SINH GIỎI}
+	\end{center}
+	\newpage	
+
+	\input{../bidithi/bidithi}
+	\newpage
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi11_2019}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage	
+
+
+	\thispagestyle{empty}
+	\begingroup 
+	\AddToShipoutPicture*{\put(0,0){\includegraphics[width=14.8cm]{../dovui/Do_vui_Pi4_2020}}}
+	\centering
+	\vspace*{0cm}
+	\endgroup
+	\newpage
+	
+	\thispagestyle{empty}
+	\begin{center}
+		\textbf{\Large\color{toancuabi}PHẦN VII. LỜI GIẢI, ĐÁP ÁN}
+	\end{center}
+	\newpage	
+
+	\input{../loigiai/loigiai}
+	\newpage
+\end{document}
+
+
