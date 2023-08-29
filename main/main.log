@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.2)  28 AUG 2023 16:40
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.2)  29 AUG 2023 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1340,49 +1340,49 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip141
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 90.
+Package hyperref Info: Option `colorlinks' set `true' on input line 91.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 90.
+(hyperref)                setting the option has no effect on input line 91.
 
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-12.
+13.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 113.
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
-2.
+3.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
 File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
-LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1434,7 +1434,7 @@ Package caption Info: changepage package is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 112.
+Package hyperref Info: Link coloring ON on input line 113.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1448,21 +1448,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count358
 )
-LaTeX Info: Redefining \ref on input line 112.
-LaTeX Info: Redefining \pageref on input line 112.
-LaTeX Info: Redefining \nameref on input line 112.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 115.
+(Font)              scaled to size 14.4pt on input line 116.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 14.4pt
  -> C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramon
 d/EBGaramond-Bold.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 115.
+(Font)              scaled to size 20.74pt on input line 116.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 20.74pt
  -> C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramon
@@ -1974,28 +1974,28 @@ File: ../giaitoancungbi/robin//5.jpg Graphic file (type bmp)
 File: ../giaitoancungbi/robin//6.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//6.jpg>
 
-Underfull \hbox (badness 1590) in paragraph at lines 93--94
+Underfull \hbox (badness 1590) in paragraph at lines 92--93
 \TU/EBGaramond(0)/m/n/14.4 vùng sẽ có lốc xoáy,
  []
 
 
-Underfull \hbox (badness 3919) in paragraph at lines 93--94
+Underfull \hbox (badness 3919) in paragraph at lines 92--93
 \TU/EBGaramond(0)/m/n/14.4 còn điểm $\OML/ztmcm/m/it/14.4 C$ \TU/EBGaramond(0)/
 m/n/14.4 nằm ở
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 93--94
+Underfull \hbox (badness 1400) in paragraph at lines 92--93
 \TU/EBGaramond(0)/m/n/14.4 chịu ảnh hưởng của
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 93--94
+Underfull \hbox (badness 1881) in paragraph at lines 92--93
 \TU/EBGaramond(0)/m/n/14.4 Vì thế, để tránh lốc
  []
 
 
-Overfull \hbox (0.87695pt too wide) in paragraph at lines 93--94
+Overfull \hbox (0.87695pt too wide) in paragraph at lines 92--93
 \TU/EBGaramond(0)/m/n/14.4 trương di chuyển ngay
  []
 
@@ -2126,21 +2126,22 @@ File: ../giaitoancungbi/mitdac//Hinh0.jpg Graphic file (type bmp)
 File: ../dovui/Do_vui_Pi7_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi7_2019.pdf>
  [54] [55] (../suyluancungbi/sumivachiecla.tex
+Overfull \hbox (3.75427pt too wide) in paragraph at lines 28--29
+\TU/EBGaramond(0)/m/n/14.4 chiếc mũ của con phải là màu đỏ ạ. – Sumi
+ []
+
 File: ../suyluancungbi/sumi//sumitd.pdf Graphic file (type pdf)
 <use ../suyluancungbi/sumi//sumitd.pdf>
-File: ../suyluancungbi/sumi//shape1.jpg Graphic file (type bmp)
-<../suyluancungbi/sumi//shape1.jpg>
 File: ../suyluancungbi/sumi//cd1.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//cd1.jpg>
 File: ../suyluancungbi/sumi//h1.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h1.jpg>
-
 [56]
 File: ../suyluancungbi/sumi//h2.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h2.jpg>
+ [57]
 File: ../suyluancungbi/sumi//h3.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h3.jpg>
- [57]
 File: ../suyluancungbi/sumi//h5.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h5.jpg>
  [58]
@@ -2161,7 +2162,7 @@ File: ../suyluancungbi/sudoku1//hinh2.jpg Graphic file (type bmp)
 File: ../suyluancungbi/sudoku1//hinh3.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh3.jpg>
 
-Overfull \hbox (2.95753pt too wide) in paragraph at lines 58--59
+Overfull \hbox (2.95753pt too wide) in paragraph at lines 57--58
  [][] 
  []
 
@@ -2170,16 +2171,15 @@ File: ../suyluancungbi/sudoku1//hinh4.jpg Graphic file (type bmp)
 File: ../suyluancungbi/sudoku1//hinh5.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh5.jpg>
 
-Underfull \hbox (badness 7047) in paragraph at lines 88--89
-\TU/EBGaramond(0)/m/n/14.4 không còn cách nào khác,
+Underfull \hbox (badness 2644) in paragraph at lines 85--86
+[][]\TU/EBGaramond(0)/m/n/14.4 – Quan sát bảng ở Hình $\OT1/ztmcm/m/n/14.4 4$\T
+U/EBGaramond(0)/m/n/14.4 ,
  []
 
 
-Overfull \vbox (64.29886pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (64.29886pt too high) has occurred while \output is active []
-
+Underfull \hbox (badness 1655) in paragraph at lines 85--86
+\TU/EBGaramond(0)/m/n/14.4 chúng mình không thấy một
+ []
 
 [62]
 File: ../suyluancungbi/sudoku1//hinh6a.jpg Graphic file (type bmp)
@@ -2218,6 +2218,12 @@ Underfull \hbox (badness 3849) in paragraph at lines 30--32
 [65]
 File: ../suyluancungbi/sudoku2//pic3.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic3.jpg>
+
+Underfull \hbox (badness 7814) in paragraph at lines 34--42
+[]\TU/EBGaramond(0)/m/n/14.4 – Nhìn bảng ở Hình $\OT1/ztmcm/m/n/14.4 13$\TU/EBG
+aramond(0)/m/n/14.4 ,
+ []
+
 File: ../suyluancungbi/sudoku2//pic4.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic4.jpg>
 
@@ -2247,11 +2253,6 @@ File: ../suyluancungbi/sudoku2//pic6.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic6.jpg>
 File: ../suyluancungbi/sudoku2//pic7.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic7.jpg>
-
-Underfull \hbox (badness 1715) in paragraph at lines 88--89
-[]\TU/EBGaramond(0)/m/n/14.4 – Quan sát bảng ở Hình 18,
- []
-
 
 Underfull \hbox (badness 1655) in paragraph at lines 88--89
 \TU/EBGaramond(0)/m/n/14.4 chúng mình không thấy một
@@ -2284,14 +2285,14 @@ File: ../suyluancungbi/sudoku2//pic11.jpg Graphic file (type bmp)
 File: ../suyluancungbi/sudoku2//pic13.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic13.jpg>
 
-Overfull \hbox (2.95753pt too wide) in paragraph at lines 157--158
+Overfull \hbox (2.95753pt too wide) in paragraph at lines 148--149
  [][] 
  []
 
 File: ../suyluancungbi/sudoku2//pic14.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic14.jpg>
 
-Overfull \hbox (2.95753pt too wide) in paragraph at lines 165--166
+Overfull \hbox (2.95753pt too wide) in paragraph at lines 156--157
  [][] 
  []
 
@@ -2299,50 +2300,17 @@ File: ../suyluancungbi/sudoku2//pic15.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic15.jpg>
 File: ../suyluancungbi/sudoku2//pic16.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic16.jpg>
-
-Underfull \hbox (badness 1038) in paragraph at lines 183--192
-\TU/EBGaramond(0)/m/n/14.4 số đã được điền trong vùng
- []
-
 [69]
 File: ../suyluancungbi/sudoku2//pic17.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic17.jpg>
 File: ../suyluancungbi/sudoku2//pic18.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic18.jpg>
-
-Overfull \hbox (1.61333pt too wide) in paragraph at lines 212--214
- [][] 
- []
-
 File: ../suyluancungbi/sudoku2//pic21.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic21.jpg>
-
-Overfull \hbox (1.61333pt too wide) in paragraph at lines 221--223
- [][] 
- []
-
 File: ../suyluancungbi/sudoku2//pic22.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic22.jpg>
-
-Overfull \hbox (1.61333pt too wide) in paragraph at lines 231--233
- [][] 
- []
-
-
-Overfull \vbox (27.33542pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (27.33542pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (24.91536pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (24.91536pt too high) has occurred while \output is active []
-
-
-[70]) (../suyluancungbi/xuanphong.tex [71] [72]
-Overfull \hbox (0.38785pt too wide) in paragraph at lines 49--50
+) (../suyluancungbi/xuanphong.tex [70] [71] [72]
+Overfull \hbox (0.38785pt too wide) in paragraph at lines 50--51
 \TU/EBGaramond(0)/m/n/14.4 khu ở của người bản địa thuộc một bộ lạc. Đường đi x
 uống thung
  []
@@ -2359,13 +2327,13 @@ File: ../suyluancungbi/xuanphong//3.jpg Graphic file (type bmp)
 <../suyluancungbi/xuanphong//3.jpg>
 
 [74]
-Overfull \hbox (15.50786pt too wide) in paragraph at lines 114--115
+Overfull \hbox (15.50786pt too wide) in paragraph at lines 115--116
 \TU/EBGaramond(0)/m/n/14.4 Rico an toàn trong sự hân hoan đón chào của ng
 ười dân địa phương,
  []
 
 [75]
-Overfull \hbox (2.01024pt too wide) in paragraph at lines 118--119
+Overfull \hbox (2.01024pt too wide) in paragraph at lines 119--120
 \TU/EBGaramond(0)/m/n/14.4 nào chúng tôi cũng gặp những tình huống như trên, đô
 i khi Xuân
  []
@@ -2384,14 +2352,14 @@ Underfull \vbox (badness 7468) has occurred while \output is active []
 File: ../dovui/Do_vui_Pi6_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi6_2019.pdf>
  [81] [82] (../timhieucungbi/quansatcackhoihinh.tex
-Package mdframed Info: mdframed works in twoside mode on input line 12.
+Package mdframed Info: mdframed works in twoside mode on input line 13.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 12.
+(mdframed)              on input line 13.
 File: ../timhieucungbi/quansatcackhoihinh//1.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//1.jpg>
 
-Overfull \hbox (1.53125pt too wide) in paragraph at lines 17--19
+Overfull \hbox (1.53125pt too wide) in paragraph at lines 18--20
  [][] 
  []
 
@@ -2401,29 +2369,34 @@ File: ../timhieucungbi/quansatcackhoihinh//4.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//4.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//5.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//5.jpg>
-Package mdframed Info: mdframed works in twoside mode on input line 51.
+Package mdframed Info: mdframed works in twoside mode on input line 52.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 51.
+(mdframed)              on input line 52.
 File: ../timhieucungbi/quansatcackhoihinh//6.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//6.jpg>
-Package mdframed Info: Not enough space on this page on input line 58.
+Package mdframed Info: Not enough space on this page on input line 59.
 File: ../timhieucungbi/quansatcackhoihinh//7a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//7a.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//7b.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//7b.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//7c.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//7c.jpg>
-Package mdframed Info: mdframed works in twoside mode on input line 77.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 77.
-File: ../timhieucungbi/quansatcackhoihinh//8.jpg Graphic file (type bmp)
-<../timhieucungbi/quansatcackhoihinh//8.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//tieude3.pdf Graphic file (type pdf)
 <use ../timhieucungbi/quansatcackhoihinh//tieude3.pdf>
 [83]
-Package mdframed Info: Not enough space on this page on input line 84.
+Package mdframed Info: mdframed works in twoside mode on input line 78.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 78.
+File: ../timhieucungbi/quansatcackhoihinh//8.jpg Graphic file (type bmp)
+<../timhieucungbi/quansatcackhoihinh//8.jpg>
+File: ../timhieucungbi/quansatcackhoihinh//9a.jpg Graphic file (type bmp)
+<../timhieucungbi/quansatcackhoihinh//9a.jpg>
+File: ../timhieucungbi/quansatcackhoihinh//9b.jpg Graphic file (type bmp)
+<../timhieucungbi/quansatcackhoihinh//9b.jpg>
+File: ../timhieucungbi/quansatcackhoihinh//9c.jpg Graphic file (type bmp)
+<../timhieucungbi/quansatcackhoihinh//9c.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//10a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//10a.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//10b.jpg Graphic file (type bmp)
@@ -2438,12 +2411,6 @@ File: ../timhieucungbi/quansatcackhoihinh//11c.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//11c.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//14.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//14.jpg>
-File: ../timhieucungbi/quansatcackhoihinh//9a.jpg Graphic file (type bmp)
-<../timhieucungbi/quansatcackhoihinh//9a.jpg>
-File: ../timhieucungbi/quansatcackhoihinh//9b.jpg Graphic file (type bmp)
-<../timhieucungbi/quansatcackhoihinh//9b.jpg>
-File: ../timhieucungbi/quansatcackhoihinh//9c.jpg Graphic file (type bmp)
-<../timhieucungbi/quansatcackhoihinh//9c.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//12.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//12.jpg>
  [84]
@@ -2463,6 +2430,9 @@ File: ../timhieucungbi/quansatcackhoihinh//16d.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//16d.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//16a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//16a.jpg>
+
+Underfull \vbox (badness 1917) has occurred while \output is active []
+
  [85]
 File: ../timhieucungbi/quansatcackhoihinh//19a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//19a.jpg>
@@ -2472,13 +2442,14 @@ File: ../timhieucungbi/quansatcackhoihinh//19c.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//19c.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//20.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//20.jpg>
-) (../timhieucungbi/hoclamthamtu.tex [86]
+)
+(../timhieucungbi/hoclamthamtu.tex [86]
 File: ../timhieucungbi/hoclamthamtu//pic1.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic1.jpg>
 
-Underfull \hbox (badness 5036) in paragraph at lines 12--20
-\TU/EBGaramond(0)/m/it/14.4 Bắc (viết tắt là \TU/EBGaramond(0)/m/n/14.4 B\TU/EB
-Garamond(0)/m/it/14.4 ).” \TU/EBGaramond(0)/m/n/14.4 (Xem
+Underfull \hbox (badness 1655) in paragraph at lines 22--23
+[]\OML/ztmcm/m/it/14.4 ABCD$[]\TU/EBGaramond(0)/m/n/14.4 . Biết rằng, đỉnh $[]\
+OML/ztmcm/m/it/14.4 D$[] \TU/EBGaramond(0)/m/n/14.4 của hình
  []
 
 File: ../timhieucungbi/hoclamthamtu//pic2.jpg Graphic file (type bmp)
@@ -2565,7 +2536,14 @@ File: ../timhieucungbi/hoclamthamtu//pic17.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic17.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic18.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic18.jpg>
- [93]
+
+Overfull \hbox (0.68048pt too wide) in paragraph at lines 216--224
+[]\TU/EBGaramond(0)/b/n/14.4 Ví dụ $[][]\OML/ztmcm/m/it/14.4 :$[] \TU/EBGaramon
+d(0)/m/n/14.4 Trong Hình $[]\OT1/ztmcm/m/n/14.4 21$[]\TU/EBGaramond(0)/m/n/14.4
+ , người quan sát đứng quay mặt về hướng
+ []
+
+[93]
 File: ../timhieucungbi/hoclamthamtu//pic19.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic19.jpg>
  [94]
@@ -2638,10 +2616,9 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_12_giai.jpg Graphic file (type bmp
 )
 <../timhieucungbi/demtamgiac1//Tam_giac_12_giai.jpg>
 
-Overfull \vbox (12.50113pt too high) has occurred while \output is active []
+Underfull \vbox (badness 1226) has occurred while \output is active []
 
-
-[100]
+ [100]
 File: ../timhieucungbi/demtamgiac1//Tam_giac_13_giai.jpg Graphic file (type bmp
 )
 <../timhieucungbi/demtamgiac1//Tam_giac_13_giai.jpg>
@@ -2652,7 +2629,8 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_15.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_15.jpg>
 File: ../timhieucungbi/demtamgiac1//Tam_giac_16.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_16.jpg>
-) (../timhieucungbi/demtamgiac2.tex [101]
+)
+(../timhieucungbi/demtamgiac2.tex [101]
 File: ../timhieucungbi/demtamgiac2//Hinh23.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//Hinh23.jpg>
 File: ../timhieucungbi/demtamgiac2//Hinh24.jpg Graphic file (type bmp)
@@ -2957,28 +2935,8 @@ File: ../timhieulichsu/pic//30.jpg Graphic file (type bmp)
 File: ../timhieulichsu/pic//31.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//31.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
-[]|$[]\OT1/ztmcm/m/n/14.4 10[] =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
-[]|$[]\OT1/ztmcm/m/n/14.4 10[] =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
-[]|\TU/EBGaramond(0)/m/n/14.4 hàng
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--343
-[]|\TU/EBGaramond(0)/m/n/14.4 hàng
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 343--343
-[][][][] 
+Underfull \hbox (badness 10000) in paragraph at lines 333--345
+[][]
  []
 
 
@@ -3242,10 +3200,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35973 strings out of 410939
- 764187 string characters out of 2823530
- 936864 words of memory out of 3000000
- 56072 multiletter control sequences out of 15000+600000
+ 35951 strings out of 410939
+ 763683 string characters out of 2823530
+ 936808 words of memory out of 3000000
+ 56050 multiletter control sequences out of 15000+600000
  506274 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  109i,14n,118p,1288b,1028s stack positions out of 10000i,1000n,20000p,200000b,80000s
