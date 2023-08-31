@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.2)  29 AUG 2023 11:50
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.6.2)  31 AUG 2023 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2352,14 +2352,14 @@ Underfull \vbox (badness 7468) has occurred while \output is active []
 File: ../dovui/Do_vui_Pi6_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi6_2019.pdf>
  [81] [82] (../timhieucungbi/quansatcackhoihinh.tex
-Package mdframed Info: mdframed works in twoside mode on input line 13.
+Package mdframed Info: mdframed works in twoside mode on input line 12.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 13.
+(mdframed)              on input line 12.
 File: ../timhieucungbi/quansatcackhoihinh//1.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//1.jpg>
 
-Overfull \hbox (1.53125pt too wide) in paragraph at lines 18--20
+Overfull \hbox (1.53125pt too wide) in paragraph at lines 17--19
  [][] 
  []
 
@@ -2369,13 +2369,13 @@ File: ../timhieucungbi/quansatcackhoihinh//4.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//4.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//5.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//5.jpg>
-Package mdframed Info: mdframed works in twoside mode on input line 52.
+Package mdframed Info: mdframed works in twoside mode on input line 51.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 52.
+(mdframed)              on input line 51.
 File: ../timhieucungbi/quansatcackhoihinh//6.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//6.jpg>
-Package mdframed Info: Not enough space on this page on input line 59.
+Package mdframed Info: Not enough space on this page on input line 58.
 File: ../timhieucungbi/quansatcackhoihinh//7a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//7a.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//7b.jpg Graphic file (type bmp)
@@ -2385,10 +2385,10 @@ File: ../timhieucungbi/quansatcackhoihinh//7c.jpg Graphic file (type bmp)
 File: ../timhieucungbi/quansatcackhoihinh//tieude3.pdf Graphic file (type pdf)
 <use ../timhieucungbi/quansatcackhoihinh//tieude3.pdf>
 [83]
-Package mdframed Info: mdframed works in twoside mode on input line 78.
+Package mdframed Info: mdframed works in twoside mode on input line 77.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 78.
+(mdframed)              on input line 77.
 File: ../timhieucungbi/quansatcackhoihinh//8.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//8.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//9a.jpg Graphic file (type bmp)
@@ -2448,8 +2448,8 @@ File: ../timhieucungbi/hoclamthamtu//pic1.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic1.jpg>
 
 Underfull \hbox (badness 1655) in paragraph at lines 22--23
-[]\OML/ztmcm/m/it/14.4 ABCD$[]\TU/EBGaramond(0)/m/n/14.4 . Biết rằng, đỉnh $[]\
-OML/ztmcm/m/it/14.4 D$[] \TU/EBGaramond(0)/m/n/14.4 của hình
+\OML/ztmcm/m/it/14.4 ABCD$\TU/EBGaramond(0)/m/n/14.4 . Biết rằng, đỉnh $\OML/zt
+mcm/m/it/14.4 D$ \TU/EBGaramond(0)/m/n/14.4 của hình
  []
 
 File: ../timhieucungbi/hoclamthamtu//pic2.jpg Graphic file (type bmp)
@@ -2466,8 +2466,8 @@ Underfull \hbox (badness 2547) in paragraph at lines 36--37
 
 
 Underfull \hbox (badness 4686) in paragraph at lines 36--37
-\TU/EBGaramond(0)/m/n/14.4 Đông, nên đỉnh $[]\OML/ztmcm/m/it/14.4 B$[] \TU/EBGa
-ramond(0)/m/n/14.4 nằm ở hướng
+\TU/EBGaramond(0)/m/n/14.4 Đông, nên đỉnh $\OML/ztmcm/m/it/14.4 B$ \TU/EBGaramo
+nd(0)/m/n/14.4 nằm ở hướng
  []
 
 File: ../timhieucungbi/hoclamthamtu//tieude.pdf Graphic file (type pdf)
@@ -2538,9 +2538,9 @@ File: ../timhieucungbi/hoclamthamtu//pic18.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic18.jpg>
 
 Overfull \hbox (0.68048pt too wide) in paragraph at lines 216--224
-[]\TU/EBGaramond(0)/b/n/14.4 Ví dụ $[][]\OML/ztmcm/m/it/14.4 :$[] \TU/EBGaramon
-d(0)/m/n/14.4 Trong Hình $[]\OT1/ztmcm/m/n/14.4 21$[]\TU/EBGaramond(0)/m/n/14.4
- , người quan sát đứng quay mặt về hướng
+[]\TU/EBGaramond(0)/b/n/14.4 Ví dụ $[]\OML/ztmcm/m/it/14.4 :$ \TU/EBGaramond(0)
+/m/n/14.4 Trong Hình $\OT1/ztmcm/m/n/14.4 21$\TU/EBGaramond(0)/m/n/14.4 , người
+ quan sát đứng quay mặt về hướng
  []
 
 [93]
@@ -2670,16 +2670,15 @@ File: ../timhieucungbi/demtamgiac2//QuyLuat.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//QuyLuat.jpg>
 [103]
 Overfull \hbox (15.24826pt too wide) in paragraph at lines 143--145
-\TU/EBGaramond(0)/m/n/14.4 Như vậy số tam giác trong Hình $[]\OT1/ztmcm/m/n/14.
-4 19$[] \TU/EBGaramond(0)/m/n/14.4 là: $[][][] \OT1/ztmcm/m/n/14.4 + [][] =
+\TU/EBGaramond(0)/m/n/14.4 Như vậy số tam giác trong Hình $\OT1/ztmcm/m/n/14.4 
+19$ \TU/EBGaramond(0)/m/n/14.4 là: $[][] \OT1/ztmcm/m/n/14.4 + [][] =
  []
 
 
 Overfull \hbox (13.5482pt too wide) in paragraph at lines 179--179
-[]$[]\OMS/ztmcm/m/n/14.4 ^^O$[] \TU/EBGaramond(0)/m/it/14.4 Số tam giác “hướng 
-lên” với kích thước cạnh lần lượt là $[]\OT1/ztmcm/m/n/14.4 1\OML/ztmcm/m/it/14
-.4 ; \OT1/ztmcm/m/n/14.4 2\OML/ztmcm/m/it/14.4 ; [] ; n \OMS/ztmcm/m/n/14.4 ^^@
-
+[]$\OMS/ztmcm/m/n/14.4 ^^O$ \TU/EBGaramond(0)/m/it/14.4 Số tam giác “hướng lên”
+ với kích thước cạnh lần lượt là $\OT1/ztmcm/m/n/14.4 1\OML/ztmcm/m/it/14.4 ; \
+OT1/ztmcm/m/n/14.4 2\OML/ztmcm/m/it/14.4 ; [] ; n \OMS/ztmcm/m/n/14.4 ^^@
  []
 
 [104]) [105]
@@ -2709,8 +2708,9 @@ um;mapping=tex-text;" at 6.0pt
  -> C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramon
 d/EBGaramond-Regular.otf
 
-Overfull \hbox (22.62157pt too wide) in paragraph at lines 82--82
- [][][]\TU/EBGaramond(0)/m/n/14.4 2.000.000 
+Overfull \hbox (24.23405pt too wide) in paragraph at lines 82--82
+ [][][]$\OT1/ztmcm/m/n/14.4 2\OML/ztmcm/m/it/14.4 :\OT1/ztmcm/m/n/14.4 000\OML/
+ztmcm/m/it/14.4 :\OT1/ztmcm/m/n/14.4 000$ 
  []
 
 
@@ -2844,7 +2844,7 @@ Overfull \hbox (5.96881pt too wide) in paragraph at lines 211--212
 
 
 Underfull \hbox (badness 2717) in paragraph at lines 211--212
-[]\OT1/ztmcm/m/n/14.4 5000$[] \TU/EBGaramond(0)/m/n/14.4 năm trước ở vùng đất
+\OT1/ztmcm/m/n/14.4 5000$ \TU/EBGaramond(0)/m/n/14.4 năm trước ở vùng đất
  []
 
 File: ../timhieulichsu/pic//15.jpg Graphic file (type bmp)
@@ -3044,20 +3044,20 @@ Overfull \vbox (18.72421pt too high) has occurred while \output is active []
 
 [126]
 Overfull \hbox (2.36525pt too wide) in paragraph at lines 108--109
-[]$[]\OT1/ztmcm/m/n/14.4 8$[] \TU/EBGaramond(0)/m/n/14.4 ký tự $[]\OT1/ztmcm/m/
-n/14.4 2\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 0\OML/ztmcm/m/it/14.4 ; \OT1
-/ztmcm/m/n/14.4 1\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 5\OML/ztmcm/m/it/14
-.4 ; I; M; A; S$[] \TU/EBGaramond(0)/m/n/14.4 được xếp trên $[]\OT1/ztmcm/m/n/1
-4.4 1$[] \TU/EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
+[]$\OT1/ztmcm/m/n/14.4 8$ \TU/EBGaramond(0)/m/n/14.4 ký tự $\OT1/ztmcm/m/n/14.4
+ 2\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 0\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm
+/m/n/14.4 1\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 5\OML/ztmcm/m/it/14.4 ; I
+; M; A; S$ \TU/EBGaramond(0)/m/n/14.4 được xếp trên $\OT1/ztmcm/m/n/14.4 1$ \TU
+/EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
  []
 
 
 Overfull \hbox (2.36525pt too wide) in paragraph at lines 125--126
-[]$[]\OT1/ztmcm/m/n/14.4 8$[] \TU/EBGaramond(0)/m/n/14.4 ký tự $[]\OT1/ztmcm/m/
-n/14.4 2\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 0\OML/ztmcm/m/it/14.4 ; \OT1
-/ztmcm/m/n/14.4 1\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 5\OML/ztmcm/m/it/14
-.4 ; I; M; A; S$[] \TU/EBGaramond(0)/m/n/14.4 được xếp trên $[]\OT1/ztmcm/m/n/1
-4.4 1$[] \TU/EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
+[]$\OT1/ztmcm/m/n/14.4 8$ \TU/EBGaramond(0)/m/n/14.4 ký tự $\OT1/ztmcm/m/n/14.4
+ 2\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 0\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm
+/m/n/14.4 1\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 5\OML/ztmcm/m/it/14.4 ; I
+; M; A; S$ \TU/EBGaramond(0)/m/n/14.4 được xếp trên $\OT1/ztmcm/m/n/14.4 1$ \TU
+/EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
  []
 
 [127]
@@ -3144,7 +3144,14 @@ File: ../loigiai/pic//8.jpg Graphic file (type bmp)
  [147] [148]
 File: ../loigiai/pic//9.jpg Graphic file (type bmp)
 <../loigiai/pic//9.jpg>
- [149] [150]
+
+Overfull \hbox (0.58911pt too wide) in paragraph at lines 339--340
+[]$\OT1/ztmcm/m/n/14.4 +)$ \TU/EBGaramond(0)/m/n/14.4 Nếu Ngộ Nhỡ chuyển được $
+\OT1/ztmcm/m/n/14.4 7$ \TU/EBGaramond(0)/m/n/14.4 quả táo thì khi đó Nhanh Nhảu
+
+ []
+
+[149] [150]
 File: ../loigiai/pic//10.jpg Graphic file (type bmp)
 <../loigiai/pic//10.jpg>
  [151]
@@ -3158,8 +3165,7 @@ File: ../loigiai/pic//13.jpg Graphic file (type bmp)
  [153]
 File: ../loigiai/pic//14.jpg Graphic file (type bmp)
 <../loigiai/pic//14.jpg>
-
-[154]
+ [154]
 File: ../loigiai/pic//15.jpg Graphic file (type bmp)
 <../loigiai/pic//15.jpg>
 File: ../loigiai/pic//16.jpg Graphic file (type bmp)
@@ -3184,7 +3190,7 @@ Overfull \hbox (3.49155pt too wide) in paragraph at lines 611--612
  []
 
 [158] [159]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1789) has occurred while \output is active []
 
  [160]
 [161]
@@ -3200,10 +3206,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35951 strings out of 410939
- 763683 string characters out of 2823530
- 936808 words of memory out of 3000000
- 56050 multiletter control sequences out of 15000+600000
+ 35948 strings out of 410939
+ 763642 string characters out of 2823530
+ 935673 words of memory out of 3000000
+ 56047 multiletter control sequences out of 15000+600000
  506274 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  109i,14n,118p,1288b,1028s stack positions out of 10000i,1000n,20000p,200000b,80000s
