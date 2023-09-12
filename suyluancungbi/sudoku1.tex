@@ -1,10 +1,10 @@
 \newpage
 \graphicspath{{../suyluancungbi/sudoku1/}}
 \begingroup
-\AddToShipoutPicture*{\put(90,550){\includegraphics[scale=0.75]{../sudoku1/sudokutieude.pdf}}} % %Image background
+\AddToShipoutPicture*{\put(62,600){\includegraphics[scale=1]{../sudoku1/sudokutieude1.pdf}}} % %Image background
 \centering
 \endgroup
-\vspace*{80pt}
+\vspace*{20pt}
 
 	\begin{multicols}{2}
 		\textbf{Sudoku}, ban đầu có tên gọi là \textbf{Number Place}, là một trò chơi với câu đố điền các số vào các ô trống của một bảng ô vuông có $9$ hàng và $9$ cột (gọi vắn tắt là bảng $9\times 9$), sao cho trong mỗi hàng, mỗi cột đều có tất cả các số tự nhiên từ $1$ đến $9$, và đồng thời, khi chia bảng to $9\times9$ thành chín bảng con $3\times 3$ (tức, bảng có $3$ hàng và $3$ cột) thì trong mỗi bảng con $3\times 3$ cũng có tất cả các số tự nhiên từ $1$ đến $9$. Trong Hình $1$ là một bảng $9\times 9$ và chín bảng con $3\times 3$ được phân chia ra từ bảng $9\times 9$ đó.
@@ -30,7 +30,7 @@
 			\vspace*{5pt}
 			\centering
 			\captionsetup{labelformat=empty, justification=centering}
-			\includegraphics[scale=0.3]{hinh2}
+			\includegraphics[scale=0.33]{hinh2}
 			\caption{\textit{\small Hình $2.$}}
 			\vspace*{-10pt}
 		\end{figure}
@@ -43,13 +43,11 @@
 	\vskip 0.15cm
 	-- Cùng xem nào! Ở hàng trên cùng, đã có hình tròn và hình vuông ở hai ô, vậy thì ở ô trống còn lại chắc chắn phải là hình tam giác rồi! Ở hàng dưới cùng, đã có hình tam giác và hình vuông, nên ở ô trống còn lại chắc chắn phải là hình tròn. Cũng như vậy, ở cột đầu tiên (tính từ trái qua phải), đã có hình tam giác và hình tròn, do đó, ở ô trống còn lại bắt buộc phải là hình vuông.
 	\vskip 0.15cm
-	\begin{multicols}{2}
-			-- A ha! Chúng mình đã khám phá ra rồi, nếu trong một hàng hay cột đã có hai ô có hình thì ắt sẽ biết hình phải có trong ô trống còn lại là hình gì.
-		\vskip 0.15cm
-		-- Với khám phá trên, bằng cách xét các cột thứ hai và thứ ba, chúng mình sẽ dễ dàng điền được hình vào các ô trống còn lại sau bước điền nói trên, phải không nào?
-		\vskip 0.15cm
-		Các bé xem cách điền hình nêu trên của chúng mình, được thể hiện ở Hình $3$ nhé.
-		\vskip 0.15cm
+	-- A ha! Chúng mình đã khám phá ra rồi, nếu trong một hàng hay cột đã có hai ô có hình thì ắt sẽ biết hình phải có trong ô trống còn lại là hình gì.
+	\vskip 0.15cm
+	-- Với khám phá trên, bằng cách xét các cột thứ hai và thứ ba, chúng mình sẽ dễ dàng điền được hình vào các ô trống còn lại sau bước điền nói trên, phải không nào?
+	\vskip 0.15cm
+	Các bé xem cách điền hình nêu trên của chúng mình, được thể hiện ở Hình $3$ nhé.
 		\begin{figure}[H]
 			\centering
 			\vspace*{-10pt}
@@ -58,7 +56,6 @@
 			\caption{\small\textit{Hình $3.$}}
 			\vspace*{-5pt}
 		\end{figure}
-	\end{multicols}
 	Việc giải các sudoku cũng hấp dẫn đấy chứ nhỉ! Giờ hãy cùng Bi thử sức với một sudoku  khác nha!
 	\vskip 0.1cm
 	\begin{wrapfigure}{l}{0.45\linewidth}
