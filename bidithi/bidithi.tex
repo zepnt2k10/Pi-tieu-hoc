@@ -1,18 +1,21 @@
 \graphicspath{{../bidithi/pic/}}
-\begin{center}
-	\textbf{\Large\color{toancuabi}MỘT SỐ BÀI TOÁN VỀ TỔ HỢP ĐẾM (COUNTING) TRONG KỲ THI HỌC SINH GIỎI CẤP TIỂU HỌC}
-\end{center}
+\begingroup
+\AddToShipoutPicture*{\put(55,560){\includegraphics[scale=0.85]{../bidithi/tieude.pdf}}} 
+\centering
+\endgroup
+
+\vspace*{80pt}
 Trong chương trình phổ thông của Việt Nam, toán tổ hợp đếm được giới thiệu ở cấp THPT. Tuy nhiên trong một số cuộc thi học sinh giỏi toán dành cho cấp tiểu học và đầu cấp PTCS thì phần tổ hợp đếm đã được đưa vào nội dung bài thi khá nhiều, ví dụ như một số cuộc thi khá phổ biến ở Việt Nam hiện nay như IMAS (International Mathematics Assessment), Apmops (The Asia Pacific Mathematical Olympiad for Primary Schools), IMSO (The International Mathematics and Science Olympiad)...
 \vskip 0.1cm
 Trong bài viết này chúng ta cùng làm quen với một số bài toán về đếm tổ hợp trong một số cuộc thi học sinh giỏi cấp tiểu học và lớp $6$ THCS.
 \vskip 0.1cm
 Trước hết chúng ta làm quen với một số khái niệm cơ bản trong phần toán tổ hợp đếm.
 \begin{multicols}{2}
-	\textbf{Quy tắc cộng, quy tắc nhân:} Quy tắc cộng và quy tắc nhân là hai quy tắc đếm cơ bản, có nội dung có thể được mô tả như sau:
+	\textbf{\color{toancuabi}Quy tắc cộng, quy tắc nhân:} Quy tắc cộng và quy tắc nhân là hai quy tắc đếm cơ bản, có nội dung có thể được mô tả như sau:
 	\vskip 0.1cm
 	Có hai công việc gọi là Job $1$ và Job $2$ (có thể mở rộng ra nhiều hơn $2$ công việc) được thực hiện một cách độc lập nhau. Có $m$ cách thực hiện Job $1$ và $n$ cách thực hiện Job $2$, khi đó hai quy tắc đếm cơ bản được phát biểu như sau:
 	\vskip 0.1cm
-	\textbf{Quy tắc cộng:} Có $m+n$ cách để thực hiện Job $1$ hoặc Job $2$.
+	\textbf{\color{toancuabi}Quy tắc cộng:} Có $m+n$ cách để thực hiện Job $1$ hoặc Job $2$.
 	\begin{figure}[H]
 		\centering
 		\vspace*{-10pt}
@@ -21,7 +24,7 @@ Trước hết chúng ta làm quen với một số khái niệm cơ bản trong
 		\caption{\small\textit{Quy tắc cộng trong tam giác Pascal.}}
 		\vspace*{-5pt}
 	\end{figure}
-	\textbf{Quy tắc nhân:} Có $m\times n$ cách để thực hiện Job $1$ và Job $2$ (thực hiện cả hai công việc).
+	\textbf{\color{toancuabi}Quy tắc nhân:} Có $m\times n$ cách để thực hiện Job $1$ và Job $2$ (thực hiện cả hai công việc).
 	\begin{figure}[H]
 		\centering
 		\vspace*{5pt}
@@ -30,7 +33,7 @@ Trước hết chúng ta làm quen với một số khái niệm cơ bản trong
 		\caption{\small\textit{Quy tắc nhân trong bài toán đếm đường đi.}}
 		\vspace*{-10pt}
 	\end{figure}
-\textbf{Giai thừa:} của $n$ là số cách sắp xếp thứ tự của n phần tử trong một tập hợp, được ký hiệu là $n!$ và có công thức là: $n!=1\times 2\times 3\times \ldots\times n $.
+\textbf{\color{toancuabi}Giai thừa:} của $n$ là số cách sắp xếp thứ tự của n phần tử trong một tập hợp, được ký hiệu là $n!$ và có công thức là: $n!=1\times 2\times 3\times \ldots\times n $.
 \vskip 0.1cm
 Ghi chú: $0!=1$
 	\begin{figure}[H]
@@ -41,7 +44,7 @@ Ghi chú: $0!=1$
 	\vspace*{-15pt}
 \end{figure}
 \end{multicols}
-\textbf{Hoán vị (Permutation):} Có $n$ người và chỉ có $k$ cái ghế trên một hàng ($k\le n$), ta cần xếp đủ $k$ người từ nhóm $n$ người vào $k$ cái ghế. Khi đó số cách xếp gọi là hoán vị và ký hiệu là:
+\textbf{\color{toancuabi}Hoán vị (Permutation):} Có $n$ người và chỉ có $k$ cái ghế trên một hàng ($k\le n$), ta cần xếp đủ $k$ người từ nhóm $n$ người vào $k$ cái ghế. Khi đó số cách xếp gọi là hoán vị và ký hiệu là:
 \begin{align*}
 	P(n,k)=n\times(n-1)\times(n-2)\times\ldots\times(n-k+1)= \frac{n!}{(n-k)!} 
 \end{align*}
@@ -55,7 +58,7 @@ Ghi chú: $0!=1$
 		\vspace*{-10pt}
 	\end{figure}
 \end{multicols}
-	\textbf{Hoán vị vòng tròn (Circular Permutation):} Xung quanh một bàn tròn có $n$ người ngồi. Hai hoán vị được coi là như nhau nếu chúng có thể chồng khít vào nhau bằng phép xuay. Số cách sắp xếp $n$ người xung quanh môt cái bàn tròn cố định là: (\textit{cố định: có nghĩa là ta không thể nhấc nó ra để lật ngược lại được})
+	\textbf{\color{toancuabi}Hoán vị vòng tròn (Circular Permutation):} Xung quanh một bàn tròn có $n$ người ngồi. Hai hoán vị được coi là như nhau nếu chúng có thể chồng khít vào nhau bằng phép xuay. Số cách sắp xếp $n$ người xung quanh môt cái bàn tròn cố định là: (\textit{cố định: có nghĩa là ta không thể nhấc nó ra để lật ngược lại được})
 	\begin{align*}
 		P_n=(n-1)!
 	\end{align*}
@@ -68,42 +71,125 @@ Ghi chú: $0!=1$
 		\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
 		\vspace*{-15pt}
 	\end{figure}
-\textbf{Tổ hợp (Combonation):}  Đếm số cách để chọn $k$ người từ một nhóm $n$ người là một trong những bài toán tổ hợp đếm cơ bản, và nó được gọi bằng một cái tên đặc biệt: TỔ HỢP và được ký hiệu  $C(n,k)$; $C_n^k$ và có công thức là:
+\textbf{\color{toancuabi}Tổ hợp (Combonation):}  Đếm số cách để chọn $k$ người từ một nhóm $n$ người là một trong những bài toán tổ hợp đếm cơ bản, và nó được gọi bằng một cái tên đặc biệt: TỔ HỢP và được ký hiệu  $C(n,k)$; $C_n^k$ và có công thức là:
 \begin{align*}
-	C_n^k=C(n,k)&=\frac{P(n,k)}{k!} = \frac{n\times(n-1)\times(n-2)\times\ldots \times(n-k+1)}{k!}\\
+	C_n^k=C(n,k)&=\frac{P(n,k)}{k!} = \frac{n\!\times\!(n\!-\!1)\!\times\!(n\!-\!2)\!\times\!\ldots \!\times\!(n\!-\!k\!+\!1)}{k!}\\
 	& = \frac{n!}{k!\times(n-k)!}
 \end{align*}
-\begin{multicols}{2}
-	\textbf{Bài toán số $1$: (IMAS)}
+\vskip 0.1cm
+	\textbf{\color{toancuabi}Bài toán số $1$: (IMAS)}
 	\vskip 0.1cm
+	\begin{wrapfigure}{r}{0.4\linewidth}
+		\centering
+		\vspace*{-35pt}
+		\captionsetup{labelformat=empty, justification=centering}
+		\begin{tikzpicture}[toancuabi,scale=0.85]
+			\draw  (-4.,0.)-- (0.,0.);
+			\draw  (0.,4.)-- (0.,0.);
+			\draw  (0.,4.)-- (-4.,0.);
+			\draw  (-3.,0.)-- (-3.,1.);
+			\draw  (-3.,1.)-- (-2.,1.);
+			\draw  (-2.,0.)-- (-2.,2.);
+			\draw  (-2.,2.)-- (0.,2.);
+			\draw  (-1.,2.)-- (-1.,3.);
+			\draw  (-1.,3.)-- (0.,3.);
+			\draw  (0.,1.)-- (-1.,1.);
+			\draw  (-1.,1.)-- (-1.,0.);
+			\draw  (0.,2.)-- (-2.,0.);
+			\draw  (0.,1.)-- (-1.,0.);
+			\draw  (-2.,1.)-- (-3.,0.);
+			\draw  (0.,3.)-- (-1.,2.);
+			\draw (-4.36,0.11) node {$A$};
+			\draw (0.38,0.09) node {$B$};
+			\draw (0.2,4.47) node {$C$};
+		\end{tikzpicture}
+		\vspace*{-20pt}
+	\end{wrapfigure}
 	Sơ đồ dưới đây gồm nhiều tam giác vuông cân.
 	\vskip 0.1cm
 	Có bao nhiêu cách một con kiến có thể đi từ $A$ đến $C$ nếu nó chỉ được phép di chuyển lên trên, sang phải hay theo đường chéo? 
-	\begin{figure}[H]
+\vskip 0.1cm
+\textbf{\color{toancuabi}Phân tích bài toán:} Tại mỗi điểm nút trên hình vẽ, số cách đi từ $A$ đến nó sẽ bằng tổng số cách đi từ $A$ đến các điểm nút ngay đằng trước nó theo chiều mũi tên được phép đi (phải, lên trên và đi chéo).
+\vskip 0.1cm
+	\begin{wrapfigure}{l}{0.5\linewidth}
 		\centering
-		\vspace*{-5pt}
+		\vspace*{-20pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{6}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-15pt}
-	\end{figure}
-\end{multicols}
-\textbf{Phân tích bài toán:} Tại mỗi điểm nút trên hình vẽ, số cách đi từ $A$ đến nó sẽ bằng tổng số cách đi từ $A$ đến các điểm nút ngay đằng trước nó theo chiều mũi tên được phép đi (phải, lên trên và đi chéo).
-\begin{multicols}{2}
-	\begin{figure}[H]
-		\centering
-		\vspace*{-5pt}
-		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{7}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-15pt}
-	\end{figure}
+		\begin{tikzpicture}[toancuabi,scale=0.9,node font=\small]
+			\draw  (-4.,0.)-- (0.,0.);
+			\draw  (0.,4.)-- (0.,0.);
+			\draw  (0.,4.)-- (-4.,0.);
+			\draw  (-3.,0.)-- (-3.,1.);
+			\draw  (-3.,1.)-- (-2.,1.);
+			\draw  (-2.,0.)-- (-2.,2.);
+			\draw  (-2.,2.)-- (0.,2.);
+			\draw  (-1.,2.)-- (-1.,3.);
+			\draw  (-1.,3.)-- (0.,3.);
+			\draw  (0.,1.)-- (-1.,1.);
+			\draw  (-1.,1.)-- (-1.,0.);
+			\draw  (0.,2.)-- (-2.,0.);
+			\draw  (0.,1.)-- (-1.,0.);
+			\draw  (-2.,1.)-- (-3.,0.);
+			\draw  (0.,3.)-- (-1.,2.);
+			
+			\draw[-stealth]  (-4.,0.)-- (-3.5,0.);
+			\draw[-stealth]  (-3.,0)-- (-2.5,0.);
+			\draw[-stealth]  (-2,0)-- (-1.5,0.);
+			\draw[-stealth] (-1.,0.)-- (-0.5,0.);
+			\draw[-stealth]  (0,0)-- (0,0.5);
+			\draw[-stealth]  (0,1)-- (0,1.5);
+			\draw[-stealth]  (0,2)-- (0,2.5);
+			\draw[-stealth]  (0,3)-- (0,3.5);
+			\draw[-stealth]  (-3,1)-- (-2.5,1);
+			\draw[-stealth]  (-1,1)-- (-0.5,1);
+			\draw[-stealth]  (-2,2)-- (-1.5,2);
+			\draw[-stealth]  (-1,2)-- (-0.5,2);
+			\draw[-stealth]  (-1,3)-- (-0.5,3);
+			
+			\draw[-stealth]  (-4,0)-- (-3.5,0.5);
+			\draw[-stealth]  (-3,1)-- (-2.5,1.5);
+			\draw[-stealth]  (-2.,2.)-- (-1.5,2.5);
+			\draw[-stealth]  (-1.,3.)-- (-0.5,3.5);
+			\draw[-stealth]  (-3,0)-- (-2.5,0.5);
+			\draw[-stealth]  (-2,0)-- (-1.5,0.5);
+			\draw[-stealth]  (-1,0)-- (-0.5,0.5);
+			\draw[-stealth]  (-1,1)-- (-0.5,1.5);
+			\draw[-stealth]  (-1,2)-- (-0.5,2.5);
+			
+			\draw[-stealth]  (-3,0)-- (-3,0.5);
+			\draw[-stealth]  (-2,0)-- (-2,.5);
+			\draw[-stealth]  (-1,0)-- (-1,0.5);
+			\draw[-stealth]  (-2,1)-- (-2,1.5);
+			\draw[-stealth]  (-1,2)-- (-1,2.5);
+			
+			\draw (-4.36,0.11) node {$A$};
+			\draw (0.38,0.09) node {$B$};
+			\draw (0.2,4.47) node {$C$};
+			
+			\draw (-4,0) node[below]{$1$};
+			\draw (-3,0) node[below]{$1$};
+			\draw (-2,0) node[below] {$1$};
+			\draw (-1,0) node[below] {$1$};
+			\draw (0,0) node[below] {$1$};
+			\draw (-3,1) node[left] {$2$};
+			\draw (-2,1) node[right] {$4$};
+			\draw (-1,1) node[left] {$2$};
+			\draw (0,1) node[right] {$4$};
+			\draw (-2,2) node[left] {$6$};
+			\draw (-1,2) node[below] {$6$};
+			\draw (0,2) node[right] {$12$};
+			\draw (0,3) node[right] {$30$};
+			\draw (0,4) node[right] {$42$};
+			\draw (-1,3) node[left] {$12$};
+		\end{tikzpicture}
+		\vspace*{-20pt}
+	\end{wrapfigure}
+	\vskip 0.1cm
 	Vậy nên ta có để điền mũi tên hướng đi và áp dụng quy tắc cộng để giải quyết các bài toán dạng này.
 	\vskip 0.1cm
 	\textit{Lời giải}: Theo quy tắc cộng thể hiện trên hình vẽ bên dưới ta có tổng số cách đi từ $A$ đến $C$ là $42$.
-\end{multicols}
-
-\textbf{Bài toán số $2$: (IMAS)}
+	\vskip 0.1cm
+\textbf{\color{toancuabi}Bài toán số $\pmb2$: (IMAS)}
 \vskip 0.1cm
 $8$ ký tự $2,0,1,5,I,M,A,S$ được xếp trên $1$ hàng. Hỏi có bao nhiêu cách xếp sao cho các chữ số đứng đằng trước các chữ cái, chữ số $0$ không đứng đầu tiên.
 \vskip 0.1cm
@@ -120,7 +206,7 @@ Theo quy tắc nhân (hai quy tắc cơ bản trong đếm tổ hợp là quy t�
 \vskip 0.1cm
 Mở rộng bài toán số $2$, các bạn thử sức với bài toán số $3$ nhé.
 \vskip 0.1cm
-\textbf{Bài toán số $3$:}
+\textbf{\color{toancuabi}Bài toán số $3$:}
 \vskip 0.1cm
 $8$ ký tự $2,0,1,5,I,M,A,S$ được xếp trên $1$ hàng. Hỏi có bao nhiêu cách xếp thỏa mãn một trong các điều kiện sau:
 \vskip 0.1cm
@@ -132,11 +218,11 @@ $c)$ Chữ số $0$ và chữ số $1$ không đứng cạnh nhau.
 \vskip 0.1cm
 $d)$ $4$ chữ cái luôn đứng cạnh nhau.
 \vskip 0.1cm
-\textbf{Bài toán số $4$: (IMAS)}
+\textbf{\color{toancuabi}Bài toán số $4$: (IMAS)}
 \vskip 0.1cm
 Có bao nhiêu số có $3$ chữ số không chứa chữ số $3$ và chia hết cho $3$.
 \vskip 0.1cm
-\textbf{Phân tích bài toán:}
+\textbf{\color{toancuabi}Phân tích bài toán:}
 \vskip 0.1cm
 Gọi số có $3$ chữ số là $\overline{abc}$:
 \begin{multicols}{2}
@@ -166,7 +252,7 @@ Ta có $9\times 10$ cách tạo ra số $\overline{ab}$.
 Vậy số số có $3$ chữ số không chứa chữ số $3$ và chia hết cho $3$ là: $9\times10\times3=270$ (số);
 \end{multicols}
 \vskip 0.1cm
-\textbf{Bài toán số $5$: (APMOPS)}
+\textbf{\color{toancuabi}Bài toán số $\pmb 5$: (APMOPS)}
 \vskip 0.1cm
 Mỗi cạnh của hình ngũ giác có cạnh $a,b,c,d,e$ tương ứng được tô bằng một trong $3$ mầu xanh, đỏ, vàng. Hỏi có bao nhiêu cách tô mầu cách cạnh của hình ngũ giác này sao cho không có $2$ cạnh nào kề nhau có cùng mầu.
 \begin{multicols}{2}
@@ -174,11 +260,21 @@ Mỗi cạnh của hình ngũ giác có cạnh $a,b,c,d,e$ tương ứng đượ
 		\centering
 		\vspace*{-10pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{8}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-5pt}
+		\begin{tikzpicture}[toancuabi, scale=0.75]
+			\draw  (-5.,3.)-- (-3.,4.);
+			\draw  (-3.,4.)-- (-1.,4.);
+			\draw  (-1.,4.)-- (0.,2.);
+			\draw  (0.,2.)-- (-3.,0.);
+			\draw  (-3.,0.)-- (-5.,3.);
+			\draw (-4.08,3.89) node {$e$};
+			\draw (-2.,4.35) node {$a$};
+			\draw (-0.32,3.21) node {$b$};
+			\draw (-1.2,0.95) node {$c$};
+			\draw (-4.2,1.39) node {$d$};
+		\end{tikzpicture}
+		\vspace*{-10pt}
 	\end{figure}
-	\textbf{Phân tích bài toán:} Nếu ta tô thứ tự $a,b,c,d,e$ thì $a$ và $b$ có tương ứng $3$ và $2$ cách tô. Đến tô $c$ thông thường sẽ có $2$ cách tô, $d$ cũng $2$ cách tô, nhưng nếu như vậy thì $e$ sẽ không xác định được số cách tô vì nó phụ thuộc vào $2$ cạnh $a$ và $d$, bởi vậy ta cần xét đến mầu cụ thể của $c$ cũng như của $d$ để tính được số cách tô mầu $c$. Vậy ta có thể tiếp cận bài toán bằng hai cách sau đây.
+	\textbf{\color{toancuabi}Phân tích bài toán:} Nếu ta tô thứ tự $a,b,c,d,e$ thì $a$ và $b$ có tương ứng $3$ và $2$ cách tô. Đến tô $c$ thông thường sẽ có $2$ cách tô, $d$ cũng $2$ cách tô, nhưng nếu như vậy thì $e$ sẽ không xác định được số cách tô vì nó phụ thuộc vào $2$ cạnh $a$ và $d$, bởi vậy ta cần xét đến mầu cụ thể của $c$ cũng như của $d$ để tính được số cách tô mầu $c$. Vậy ta có thể tiếp cận bài toán bằng hai cách sau đây.
 \vskip 0.1cm
 \textit{Lời giải $1$:}
 \vskip 0.1cm
@@ -186,9 +282,9 @@ Tô $a$, có $3$ cách tô, tô $b$, có $2$ cách tô.
 \vskip 0.1cm
 Tô $c$:
 \vskip 0.1cm
-\textbf{Trường hợp $1$:} $c$ cùng mầu với $a, c$ có $1$ cách tô, $d$ có $2$ cách tô, $e$ có $1$ cách tô, số cách tô ngũ giác là: $3\times2\times1\times2\times1=12$ ($1$).
+\textbf{\color{toancuabi}Trường hợp $\pmb1$:} $c$ cùng mầu với $a, c$ có $1$ cách tô, $d$ có $2$ cách tô, $e$ có $1$ cách tô, số cách tô ngũ giác là: $3\times2\times1\times2\times1=12$ ($1$).
 \vskip 0.1cm
-\textbf{Trường hợp $2$:} $c$ khác mầu với $a, c$ có $1$ cách tô (vì $c$ khác với cạnh $b$ kề với nó), xét $2$ khả năng tô $d$:
+\textbf{\color{toancuabi}Trường hợp $\pmb2$:} $c$ khác mầu với $a, c$ có $1$ cách tô (vì $c$ khác với cạnh $b$ kề với nó), xét $2$ khả năng tô $d$:
 \vskip 0.1cm
 $2.1$ $d$ cùng mầu với $a, d$ có $1$ cách tô, e có $2$ cách tô. Số cách tô ngũ giác là $3\times2\times1\times2\times1=12$ ($2$).
 \vskip 0.1cm
@@ -200,9 +296,9 @@ Từ ($1$),($2$),($3$) ta có số cách tô cần tìm là: $12+12+6=30$.
 \vskip 0.1cm
 Tô $a$, có $3$ cách tô. Tô $c$, xét $2$ trường hợp:
 \vskip 0.1cm
-\textbf{Trường hợp $1$:} $c$ cùng mầu $a, c$ có $1$ cách tô, $b$ có $2$ cách tô, $d$ có $2$ cách tô, $e$ có $1$ cách tô. Số cách tô ngũ giác là: $3\times1\times2\times2\times1=12$ ($1$).
+\textbf{\color{toancuabi}Trường hợp $\pmb1$:} $c$ cùng mầu $a, c$ có $1$ cách tô, $b$ có $2$ cách tô, $d$ có $2$ cách tô, $e$ có $1$ cách tô. Số cách tô ngũ giác là: $3\times1\times2\times2\times1=12$ ($1$).
 \vskip 0.1cm
-\textbf{Trường hợp $2$:} $c$ khác mầu $a, c$ có $2$ cách tô, $b$ có $1$ cách tô. Xét $2$ khả năng tô $d$.
+\textbf{\color{toancuabi}Trường hợp $\pmb2$:} $c$ khác mầu $a, c$ có $2$ cách tô, $b$ có $1$ cách tô. Xét $2$ khả năng tô $d$.
 \vskip 0.1cm
 $2.1$ $d$ cùng mầu với $a, d$ có $1$ cách tô, $e$ có $2$ cách tô. Số cách tô ngũ giác là: $3\times2\times1\times1\times2=12$ ($2$).
 \vskip 0.1cm
@@ -210,20 +306,34 @@ $2.2$ $d$ khác mầu $a$, $d$ có $1$ cách tô (do $c$ khác mầu $a$), $e$ c
 \vskip 0.1cm
 Từ ($1$),($2$),($3$) ta có số cách tô cần tìm là: $12+12+6=30$.
 \vskip 0.1cm
-\begin{multicols}{2}
-	\textbf{Bài toán số $6$: (Apmops)}
+	\textbf{\color{toancuabi}Bài toán số $\pmb6$: (Apmops)}
+	\vskip 0.1cm
+	\begin{wrapfigure}{r}{0.4\linewidth}
+		\centering
+		\vspace*{-25pt}
+		\captionsetup{labelformat=empty, justification=centering}
+		\begin{tikzpicture}[toancuabi,scale=0.95]
+			\draw  (-5.,2.)-- (-0.02,2.58);
+			\draw  (-4.94,2.78)-- (-0.66,5.62);
+			\draw[fill=white]  (-3.9971801091570645,3.4056094602789573) circle (1.5pt);
+			\draw (-3.86,3.77) node {$A$};
+			\draw[fill=white]  (-2.7676858702243776,4.221442086112797) circle (1.5pt);
+			\draw (-2.62,4.59) node {$B$};
+			\draw[fill=white]  (-1.6167058823529414,4.985176470588236) circle (1.5pt);
+			\draw (-1.48,5.35) node {$C$};
+			\draw[fill=white]  (-3.7559113331848124,2.144893860793737) circle (1.5pt);
+			\draw (-3.62,2.51) node {$F$};
+			\draw[fill=white]  (-2.1392062633270745,2.3331848127048787) circle (1.5pt);
+			\draw (-2.,2.71) node {$E$};
+			\draw[fill=white]  (-0.8951175965118869,2.4780786734986155) circle (1.5pt);
+			\draw (-0.76,2.85) node {$D$};
+		\end{tikzpicture}
+		\vspace*{-15pt}
+	\end{wrapfigure}
 	\vskip 0.1cm
 	$A,B,C,D,E$ và $F$ là các điểm nằm trên $2$ đường thẳng như hình vẽ. Có bao nhiêu tam giác được tạo bởi $3$ trong $6$ điểm đã cho.
-	\begin{figure}[H]
-		\centering
-		\vspace*{-5pt}
-		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{9}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-15pt}
-	\end{figure}
-\end{multicols}
-\textbf{Phân tích bài toán:}
+	\vskip 0.1cm
+\textbf{\color{toancuabi}Phân tích bài toán:}
 \vskip 0.1cm
 Trên mặt phẳng cứ $3$ điểm phân biệt không thẳng hàng luôn tạo ra một tam giác, còn $3$ điểm phân biệt thẳng hàng thì không tạo ra một tam giác thông thưởng mà thường được gọi là tam giác suy biến (degenerate triangle). Tương tự như thế, nếu có các đường thẳng đôi một cắt nhau, mà không có $3$ đường thẳng nào cắt nhau tại $1$ điểm ($3$ đường đồng quy) thì cứ $3$ đường thẳng tạo ra được $1$ đoạn thẳng. Cứ $3$ đường thẳng đồng quy thì nó tạo ra một tam giác suy biến (có $3$ đỉnh trùng vào nhau). Các tính chất này có thể được áp dụng để giải bài toán trên và các bài toán mở rộng ở phần dưới.
 \vskip 0.1cm
@@ -242,46 +352,104 @@ Số tam giác suy biến là: $3\times C(3,3)=2$
 Vậy số tam giác là: $20-2=18$
 \vskip 0.1cm
 Mở rộng bài toán số $5$, các bạn thử sức của mình xem sao nhé.
-
-\vspace*{-10pt}
-\begin{multicols}{2}
-	\textbf{Bài toán $6.1$ (Apmops)}
+\vskip 0.1cm
+	\textbf{\color{toancuabi}Bài toán $\pmb{6.1}$ (Apmops)}
 	\vskip 0.1cm
-	Cho các điểm $A1$, $A2$, $A3$, $B1$, $B2$, $B3$, $B4$, $C1$, $C2$, $C3$, $C4$ và $C5$ nằm trên $3$ đường thẳng như hình vẽ. Có bao nhiêu tam giác được tạo bởi $3$ trong các đỉnh đã cho?
-	\begin{figure}[H]
+	\begin{wrapfigure}{r}{0.5\linewidth}
 		\centering
 		\vspace*{-5pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{10}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-15pt}
-	\end{figure}
-	{Bài toán $6.2$}
+		\begin{tikzpicture}[toancuabi, scale=1]
+			\draw  (-5.4,1.6)-- (-1.7,5.32);
+			\draw  (-2.74,5.5)-- (0.28,1.64);
+			\draw  (-5.6,2.)-- (0.78,2.02);
+			\draw[fill=white]  (-4.45248688627018,2.552634806236469) circle (1.5pt);
+			\draw (-4.61,3.02) node {$A_1$};
+			\draw[fill=white]  (-3.6547027796748095,3.3547312593539766) circle (1.5pt);
+			\draw (-3.91,3.88) node {$A_2$};
+			\draw[fill=white]  (-2.856811147760132,4.1569358190087335) circle (1.5pt);
+			\draw (-3.09,4.66) node {$A_3$};
+			\draw[fill=white]  (-1.8796143213988348,4.400301748542881) circle (1.5pt);
+			\draw (-1.69,4.82) node {$B_1$};
+			\draw[fill=white]  (-1.4504776019983348,3.851802497918401) circle (1.5pt);
+			\draw (-1.27,4.28) node {$B_2$};
+			\draw[fill=white]  (-0.9673278934221485,3.2342667776852623) circle (1.5pt);
+			\draw (-0.77,3.66) node {$B_3$};
+			\draw[fill=white]  (-0.5014784346378021,2.6388432972522895) circle (1.5pt);
+			\draw (-0.31,3.06) node {$B_4$};
+			\draw[fill=white]  (-4.359949489986439,2.003887305674024) circle (1.5pt);
+			\draw (-4.43,1.5) node {$C_1$};
+			\draw [fill=white] (-3.619831371238773,2.0062074251685305) circle (1.5pt);
+			\draw (-3.63,1.5) node {$C_2$};
+			\draw[fill=white]  (-2.0000353766631944,2.0112851555590496) circle (1.5pt);
+			\draw (-2.03,1.5) node {$C_3$};
+			\draw[fill=white]  (-1.3800414693107446,2.0132287101275526) circle (1.5pt);
+			\draw (-1.43,1.5) node {$C_4$};
+			\draw[fill=white]  (-0.839921385192901,2.0149218765354453) circle (1.5pt);
+			\draw (-0.77,1.5) node {$C_5$};
+		\end{tikzpicture}
+		\vspace*{-25pt}
+	\end{wrapfigure}
+	Cho các điểm $A1$, $A2$, $A3$, $B1$, $B2$, $B3$, $B4$, $C1$, $C2$, $C3$, $C4$ và $C5$ nằm trên $3$ đường thẳng như hình vẽ. Có bao nhiêu tam giác được tạo bởi $3$ trong các đỉnh đã cho?
+	\vskip 0.1cm
+	\textbf{\color{toancuabi}Bài toán $\pmb{6.2}$}
 	Có bao nhiêu tam giác trong hình vẽ?
 	\begin{figure}[H]
 		\centering
 		\vspace*{-10pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.45\textwidth]{11}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
+		\begin{tikzpicture}[toancuabi,scale=0.9]
+			\draw  (1.,3.)-- (-1.44,0.);
+			\draw  (-1.44,0.)-- (4.,0.);
+			\draw  (4.,0.)-- (1.,3.);
+			\draw  (1.,3.)-- (0.,0.);
+			\draw  (1.,3.)-- (1.4,0.);
+			\draw  (1.,3.)-- (2.68,0.);
+			\draw  (4.,0.)-- (0.,1.7704918032786887);
+			\draw  (-1.44,0.)-- (2.,2.);
+			\draw  (-1.44,0.)-- (3.37,0.63);
+			\draw [fill=white] (1.,3.) circle (1.5pt);
+			\draw [fill=white] (-1.44,0.) circle (1.5pt);
+			\draw [fill=white] (4.,0.) circle (1.5pt);
+			\draw [fill=white] (0.,0.) circle (1.5pt);
+			\draw [fill=white] (1.4,0.) circle (1.5pt);
+			\draw [fill=white] (2.68,0.) circle (1.5pt);
+			\draw [fill=white] (0.,1.7704918032786887) circle (1.5pt);
+			\draw [fill=white] (2.,2.) circle (1.5pt);
+			\draw [fill=white] (3.37,0.63) circle (1.5pt);
+		\end{tikzpicture}
 		\vspace*{-5pt}
 	\end{figure}
-	{Bài toán $6.3$}
-	Có bao nhiêu tam giác được tạo bởi 3 trong 12 điểm đã cho trên lưới ô vuông như hình vẽ?
+	\textbf{\color{toancuabi}Bài toán $\pmb{6.3}$}
+	\vskip 0.1cm
+	Có bao nhiêu tam giác được tạo bởi $3$ trong $12$ điểm đã cho trên lưới ô vuông như hình vẽ?
 	\begin{figure}[H]
 		\centering
-		\vspace*{-5pt}
+		\vspace*{5pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{12}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
+		\begin{tikzpicture}[toancuabi,scale=0.7]
+			\draw [xstep=1.0cm,ystep=1.0cm] (-2.78,-0.8) grid (4.82,4.78);
+			\draw [fill=cackithi!40] (-2.,4.) circle (5.0pt);
+			\draw [fill=cackithi!40] (0.,4.) circle (5.0pt);
+			\draw [fill=cackithi!40] (2.,4.) circle (5.0pt);
+			\draw [fill=cackithi!40] (4.,4.) circle (5.0pt);
+			\draw [fill=cackithi!40] (4.,2.) circle (5.0pt);
+			\draw [fill=cackithi!40] (4.,0.) circle (5.0pt);
+			\draw [fill=cackithi!40] (2.,0.) circle (5.0pt);
+			\draw [fill=cackithi!40] (2.,2.) circle (5.0pt);
+			\draw [fill=cackithi!40] (0.,2.) circle (5.0pt);
+			\draw [fill=cackithi!40] (0.,0.) circle (5.0pt);
+			\draw [fill=cackithi!40] (-2.,2.) circle (5.0pt);
+			\draw [fill=cackithi!40] (-2.,0.) circle (5.0pt);
+		\end{tikzpicture}
 		\vspace*{-5pt}
 	\end{figure}
-\end{multicols}
-\textbf{Bài toán số $7$: (Apmops)}
+\vskip 0.1cm
+\textbf{\color{toancuabi}Bài toán số $\pmb{7}$: (Apmops)}
 \vskip 0.1cm
 Có bao nhiêu cách để tô $6$ mặt của một hình lập phương bằng $6$ mầu, mỗi mặt được tô bằng $1$ mầu sao cho không có hai mặt nào có cùng mầu? (Hai cách tô mầu được coi là như nhau nếu chúng nhìn giống hệt nhau sau một phép xoay hình). 
 \vskip 0.1cm
-\textbf{Phân tích bài toán:} Hướng đi thứ nhất, ta hình dung nếu cố định hình lập phương lại và mỗi cách nhìn khác nhau ở mỗi phía được coi là khác nhau, như thế thì số cách tô sẽ như tô theo hàng ngang ($6$ người ngồi trên $6$ cái ghế trên $1$ hàng) và sẽ là $6!=720$ cách. Do hình lập phương này xoay được nên ta xem mỗi một kiểu tô có bao nhiêu cách xoay nó xung quanh chính nó. Do có $6$ mầu ta có $6$ cách xuay để có đáy khác mầu. Mỗi cách đặt đáy với $1$ mầu ta có $4$ cách xoay xung quanh chính nó (do hình lập phương có $4$ cạnh bên), từ đó ta có hướng giải quyết bài toán.
+\textbf{\color{toancuabi}Phân tích bài toán:} Hướng đi thứ nhất, ta hình dung nếu cố định hình lập phương lại và mỗi cách nhìn khác nhau ở mỗi phía được coi là khác nhau, như thế thì số cách tô sẽ như tô theo hàng ngang ($6$ người ngồi trên $6$ cái ghế trên $1$ hàng) và sẽ là $6!=720$ cách. Do hình lập phương này xoay được nên ta xem mỗi một kiểu tô có bao nhiêu cách xoay nó xung quanh chính nó. Do có $6$ mầu ta có $6$ cách xuay để có đáy khác mầu. Mỗi cách đặt đáy với $1$ mầu ta có $4$ cách xoay xung quanh chính nó (do hình lập phương có $4$ cạnh bên), từ đó ta có hướng giải quyết bài toán.
 \vskip 0.1cm
 Hướng đi thứ $2$, do hình lập phương xoay được nên ta có thể cố định mầu ở những vị trí ta có thể xuay nó về và ta sẽ có hướng giải quyết bài toán như lời giải $2$.
 \vskip 0.1cm
@@ -307,7 +475,7 @@ Còn $4$ mặt xung quanh, do xoay được nên theo bài toán hoán vị vòn
 \vskip 0.1cm
 Vậy số cách tô mầu hình lập phương là: $5\times 6=30$ (cách).
 \vskip 0.1cm
-\textbf{Bài toán số $8$: (IMSO)}
+\textbf{\color{toancuabi}Bài toán số $\pmb8$: (IMSO)}
 \vskip 0.1cm
 Một hình lập phương được tô các mặt bằng $6$ mầu, mỗi mặt $1$ mầu khác nhau và được đánh số từ $1$ đến $6$ sao cho tổng hai mặt đối diện bằng $7$. Hỏi có bao nhiêu cách tô mầu và đánh số hình lập phương này? (Hai cách tô mầu, đánh số được coi là như nhau nếu chúng nhìn giống hệt nhau sau một phép xoay hình). 
 \vskip 0.1cm
@@ -329,71 +497,186 @@ Vậy ta có $6\times1\times4\times1\times2\times1=48$ cách đánh số.
 \vskip 0.1cm
 Theo quy tắc nhân ta có số cách tô mầu và đánh số là: $30\times 48=1440$ (cách).
 \vskip 0.1cm
-\begin{multicols}{2}
-	\textbf{Bài toán số $9$: (IMAS)}
+	\textbf{\color{toancuabi}Bài toán số $\pmb9$: (IMAS)}
 	\vskip 0.1cm
-	Một bàn cờ hình vuông $5\times 5$ được xếp một hình chữ L chiếm $4$ ô như hình vẽ. Ta có thể xuay hoặc lật hình chữ L này. Hỏi có bao nhiêu cách xếp hình chữ L này vào bàn cờ hình vuông đã cho?
-	\begin{figure}[H]
+	\begin{wrapfigure}{r}{0.45\linewidth}
 		\centering
-		\vspace*{-5pt}
+		\vspace*{-15pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{13}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-5pt}
-	\end{figure}
-\end{multicols}
+		\begin{tikzpicture}[toancuabi,scale=0.75]
+			\filldraw[cackithi!40] (0,0) rectangle (1,3);
+			\filldraw[cackithi!40] (1,0) rectangle (2,1);
+			\draw (0,0) grid (5,5);
+		\end{tikzpicture}
+		\vspace*{-10pt}
+	\end{wrapfigure}
+	Một bàn cờ hình vuông $5\times 5$ được xếp một hình chữ L chiếm $4$ ô như hình vẽ. Ta có thể xuay hoặc lật hình chữ L này. Hỏi có bao nhiêu cách xếp hình chữ L này vào bàn cờ hình vuông đã cho?
+\vskip 0.1cm
 Phân tích bài toán: Ta nhận thấy hình chữ L tô đen có thể xoay hoặc lật được, nên ta sẽ xem nó có thể có bao nhiêu cách biến hình (xoay hoặc lật).  Ứng với mỗi phép biến hình bằng xoay, lật ta xem có bao nhiêu cách trượt nó theo hàng ngang và hàng dọc, từ đó ta có cách giải quyết bài toán.
 \vskip 0.1cm
 \textit{Lời giải:}
 \vskip 0.1cm
 Ta tính số cách xoay, lật hình chữ L tô đậm, như hình dưới ta có $8$ cách.
 	\begin{figure}[H]
-	\centering
-	\vspace*{-5pt}
-	\captionsetup{labelformat=empty, justification=centering}
-	\includegraphics[width=1\textwidth]{14}
-	%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-	\vspace*{-15pt}
-\end{figure}
-Ứng với mỗi cách biến hình này, ta xem có bao nhiêu cách dời hình theo hàng ngang và hàng dọc, và ta tính được số cách dời hình bằng trượt (tịnh tiến) theo hai chiều ngang, dọc là: $3\times4=12$.
-\begin{multicols}{2}
-		\begin{figure}[H]
 		\centering
 		\vspace*{-5pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.5\textwidth]{15}
-		%	\caption{\small\textit{Hoán vị vòng tròn $4$ người ngồi xung quanh một cái bàn hình tròn.}}
-		\vspace*{-15pt}
+		\begin{tikzpicture}[toancuabi,scale=0.385]
+			\fill[cackithi!40] (1.,3.) -- (2.,3.) -- (2.,1.) -- (3.,1.) -- (3.,0.) -- (1.,0.) -- cycle;
+			\fill[cackithi!40] (5.,0.) -- (7.,0.) -- (7.,3.) -- (6.,3.) -- (6.,1.) -- (5.,1.) -- cycle;
+			\fill[cackithi!40] (9.,2.) -- (11.,2.) -- (11.,3.) -- (12.,3.) -- (12.,1.) -- (9.,1.) -- cycle;
+			\fill[cackithi!40] (14.,3.) -- (14.,1.) -- (17.,1.) -- (17.,2.) -- (15.,2.) -- (15.,3.) -- cycle;
+			\fill[cackithi!40] (3.,-2.) -- (1.,-2.) -- (1.,-5.) -- (2.,-5.) -- (2.,-3.) -- (3.,-3.) -- cycle;
+			\fill[cackithi!40] (5.,-2.) -- (7.,-2.) -- (7.,-5.) -- (6.,-5.) -- (6.,-3.) -- (5.,-3.) -- cycle;
+			\fill[cackithi!40] (9.,-2.) -- (12.,-2.) -- (12.,-4.) -- (11.,-4.) -- (11.,-3.) -- (9.,-3.) -- cycle;
+			\fill[cackithi!40] (14.,-2.) -- (14.,-4.) -- (15.,-4.) -- (15.,-3.) -- (17.,-3.) -- (17.,-2.) -- cycle;
+			\draw [] (1.,3.)-- (2.,3.);
+			\draw [] (2.,3.)-- (2.,1.);
+			\draw [] (2.,1.)-- (3.,1.);
+			\draw [] (3.,1.)-- (3.,0.);
+			\draw [] (3.,0.)-- (1.,0.);
+			\draw [] (1.,0.)-- (1.,3.);
+			\draw [] (5.,0.)-- (7.,0.);
+			\draw [] (7.,0.)-- (7.,3.);
+			\draw [] (7.,3.)-- (6.,3.);
+			\draw [] (6.,3.)-- (6.,1.);
+			\draw [] (6.,1.)-- (5.,1.);
+			\draw [] (5.,1.)-- (5.,0.);
+			\draw [] (9.,2.)-- (11.,2.);
+			\draw [] (11.,2.)-- (11.,3.);
+			\draw [] (11.,3.)-- (12.,3.);
+			\draw [] (12.,3.)-- (12.,1.);
+			\draw [] (12.,1.)-- (9.,1.);
+			\draw [] (9.,1.)-- (9.,2.);
+			\draw [] (14.,3.)-- (14.,1.);
+			\draw [] (14.,1.)-- (17.,1.);
+			\draw [] (17.,1.)-- (17.,2.);
+			\draw [] (17.,2.)-- (15.,2.);
+			\draw [] (15.,2.)-- (15.,3.);
+			\draw [] (15.,3.)-- (14.,3.);
+			\draw [] (3.,-2.)-- (1.,-2.);
+			\draw [] (1.,-2.)-- (1.,-5.);
+			\draw [] (1.,-5.)-- (2.,-5.);
+			\draw [] (2.,-5.)-- (2.,-3.);
+			\draw [] (2.,-3.)-- (3.,-3.);
+			\draw [] (3.,-3.)-- (3.,-2.);
+			\draw [] (5.,-2.)-- (7.,-2.);
+			\draw [] (7.,-2.)-- (7.,-5.);
+			\draw [] (7.,-5.)-- (6.,-5.);
+			\draw [] (6.,-5.)-- (6.,-3.);
+			\draw [] (6.,-3.)-- (5.,-3.);
+			\draw [] (5.,-3.)-- (5.,-2.);
+			\draw [] (9.,-2.)-- (12.,-2.);
+			\draw [] (12.,-2.)-- (12.,-4.);
+			\draw [] (12.,-4.)-- (11.,-4.);
+			\draw [] (11.,-4.)-- (11.,-3.);
+			\draw [] (11.,-3.)-- (9.,-3.);
+			\draw [] (9.,-3.)-- (9.,-2.);
+			\draw [] (14.,-2.)-- (14.,-4.);
+			\draw [] (14.,-4.)-- (15.,-4.);
+			\draw [] (15.,-4.)-- (15.,-3.);
+			\draw [] (15.,-3.)-- (17.,-3.);
+			\draw [] (17.,-3.)-- (17.,-2.);
+			\draw [] (17.,-2.)-- (14.,-2.);
+			\draw  (0.,4.)-- (18.,4.);
+			\draw  (18.,4.)-- (18.,-6.);
+			\draw  (18.,-6.)-- (0.,-6.);
+			\draw  (0.,4.)-- (0.,-6.);
+			\draw  (0.,-1.)-- (18.,-1.);
+			\draw  (13.,4.)-- (13.,-6.);
+			\draw  (8.,4.)-- (8.,-6.);
+			\draw  (4.,4.)-- (4.,-6.);
+			\draw  (1.,2.)-- (2.,2.);
+			\draw  (1.,1.)-- (2.,1.);
+			\draw  (2.,1.)-- (2.,0.);
+			\draw  (6.,2.)-- (7.,2.);
+			\draw  (6.,1.)-- (7.,1.);
+			\draw  (6.,1.)-- (6.,0.);
+			\draw  (11.,2.)-- (11.,1.);
+			\draw  (10.,2.)-- (10.,1.);
+			\draw  (11.,2.)-- (12.,2.);
+			\draw  (15.,2.)-- (15.,1.);
+			\draw  (15.,2.)-- (14.,2.);
+			\draw  (16.,2.)-- (16.,1.);
+			\draw  (15.,-2.)-- (15.,-3.);
+			\draw  (16.,-2.)-- (16.,-3.);
+			\draw  (15.,-3.)-- (14.,-3.);
+			\draw  (11.,-3.)-- (12.,-3.);
+			\draw  (11.,-3.)-- (11.,-2.);
+			\draw  (10.,-2.)-- (10.,-3.);
+			\draw  (6.,-3.)-- (7.,-3.);
+			\draw  (7.,-4.)-- (6.,-4.);
+			\draw  (6.,-3.)-- (6.,-2.);
+			\draw  (2.,-3.)-- (2.,-2.);
+			\draw  (2.,-3.)-- (1.,-3.);
+			\draw  (1.,-4.)-- (2.,-4.);
+		\end{tikzpicture}
+		\vspace*{-10pt}
 	\end{figure}
+Ứng với mỗi cách biến hình này, ta xem có bao nhiêu cách dời hình theo hàng ngang và hàng dọc, và ta tính được số cách dời hình bằng trượt (tịnh tiến) theo hai chiều ngang, dọc là: $3\times4=12$.
+\vskip 0.1cm
+		\begin{figure}[H]
+			\centering
+			\vspace*{-5pt}
+			\begin{tikzpicture}[toancuabi,scale=0.62, node font= \scriptsize]
+				\filldraw[cackithi!40] (0,0) rectangle (1,3);
+				\filldraw[cackithi!40] (1,0) rectangle (2,1);
+				\draw (0,0) grid (5,5);
+				\draw (1.5,0.5) node {$1$};
+				\draw (2.5,0.5) node {$2$};
+				\draw (3.5,0.5) node {$3$};
+				\draw (4.5,0.5) node {$4$};
+				\draw (0.5,2.5) node {$1$};
+				\draw (0.5,3.5) node {$2$};
+				\draw (0.5,4.5) node {$3$};			
+				\draw (0.2, 5.5) node[right] {$3$ cách di chuyển theo cột dọc};
+				\draw (5.2, 0.4) node[right] {$4$ cách di chuyển theo hàng ngang};
+			\end{tikzpicture}
+			\vspace*{-5pt}
+		\end{figure}
 	Theo quy tắc nhân, ta có số cách đặt chữ L vào ô vuông $5\times 5$ là: $8\times12=96$ (cách)
-\end{multicols}
+\vskip 0.1cm
 Mở rộng bài toán số $9$. Các bạn thử sức mình xem nhé.
 \vskip 0.1cm
-Bài toán số $9.1$: Đề bài giống như bài toán số $9$, hình được xếp vào được thay đổi như sau:
+\textbf{\color{toancuabi}Bài toán số $\pmb{9.1}$}: Đề bài giống như bài toán số $9$, hình được xếp vào được thay đổi như sau:
 	\begin{figure}[H]
-	\centering
-	\vspace*{-5pt}
-	\captionsetup{labelformat=empty, justification=centering}
-	\includegraphics[height=0.4\textwidth]{16}\quad
-	\includegraphics[height=0.4\textwidth]{17}
-	\caption{\small\textit{$a)$ \hspace*{130pt} $b)$}}
-	\vspace*{-15pt}
-\end{figure}
-\textbf{Bài toán số $10$: (IMSO).}
+		\centering
+		\vspace*{-5pt}
+		\captionsetup{labelformat=empty, justification=centering}
+		\begin{tikzpicture}[toancuabi,scale=0.62]
+			\filldraw [cackithi!40] (0,0) rectangle (1,3);
+			\filldraw [cackithi!40] (1,0) rectangle (2,1);
+			\filldraw [cackithi!40] (1,2) rectangle (2,3);
+			\filldraw [cackithi!40] (6,2) rectangle (8,3);
+			\filldraw [cackithi!40] (7,3) rectangle (8,5);
+			\filldraw [cackithi!40] (8,4) rectangle (9,5);
+			\draw (0,0) grid (5,5);
+			\draw (6,0) grid (11,5);
+			\draw (2.5, -1) node {$a)$};
+			\draw (8.5, -1) node {$b)$};
+		\end{tikzpicture}
+		\vspace*{-5pt}
+	\end{figure}
+\textbf{\color{toancuabi}Bài toán số $\pmb{10}$: (IMSO).}
 \vskip 0.1cm
 Một hình tròn và một tam giác được xếp trên các điểm cắt của lưới ô vuông như hình vẽ sao cho tam giác và hình tròn không cùng nằm trên một hàng hay một cột.
 \vskip 0.1cm
-\begin{multicols}{2}
 	Hỏi có bao nhiêu cách xếp tam giác và hình tròn vào lưới ô vuông như hình vẽ này. Trên hình vẽ là một ví dụ về cách xếp tam giác và hình tròn.
 	\begin{figure}[H]
 		\centering
-		\vspace*{-25pt}
+		\vspace*{-10pt}
 		\captionsetup{labelformat=empty, justification=centering}
-		\includegraphics[width=0.4\textwidth]{18}
-		\vspace*{-5pt}
+		\begin{tikzpicture}[scale= 1,toancuabi]
+			\draw (0,0) grid (3,2);
+			\draw (0,2) grid (1,3);
+			\draw[fill = toancuabi] (0,3) circle (8pt);
+%			\node[fill=white, toancuabi, inner sep=2.5pt] at (2,1) {};
+			\node[fill=white, toancuabi,regular polygon, regular polygon sides=3,inner sep=2.5pt] at (2,1) {};
+		\end{tikzpicture}
+		\vspace*{-10pt}
 	\end{figure}
-\end{multicols}
-\textbf{Phân tích bài toán:} Bài toán này các bạn nhỏ lớp $4,5$ trong câu lạc bộ toán UMC đã làm được theo nhiều cách khác nhau, các bạn quan sát sẽ thấy ngoài hai điểm ở hàng trên cùng thi bên dưới cứ mỗi hình chữ nhật sẽ có $2!\times 2!=4$ cách đặt hình tròn và tam giác (do mỗi cặp đỉnh không kề nhau của $1$ hình chữ nhật sẽ có $2!$ cách đặt hình tròn và tam giác). Sau đây là một số cách giải của các bạn.
+\vskip 0.1cm
+\textbf{\color{toancuabi}Phân tích bài toán:} Bài toán này các bạn nhỏ lớp $4,5$ trong câu lạc bộ toán UMC đã làm được theo nhiều cách khác nhau, các bạn quan sát sẽ thấy ngoài hai điểm ở hàng trên cùng thi bên dưới cứ mỗi hình chữ nhật sẽ có $2!\times 2!=4$ cách đặt hình tròn và tam giác (do mỗi cặp đỉnh không kề nhau của $1$ hình chữ nhật sẽ có $2!$ cách đặt hình tròn và tam giác). Sau đây là một số cách giải của các bạn.
 \vskip 0.1cm
 \textit{Lời giải $1$: }(Lê Kỳ Nam, Vĩnh Giang)
 \vskip 0.1cm
