@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2023.9.5)  21 SEP 2023 15:10
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 22.1) (preloaded format=xelatex 2023.9.5)  1 MAR 2024 06:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1473,21 +1473,23 @@ LaTeX Info: Redefining \nameref on input line 114.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
+ [1
+
+] [2]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 117.
+(Font)              scaled to size 14.4pt on input line 133.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 14.4pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Bold.otf
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 117.
+(Font)              scaled to size 20.74pt on input line 133.
 Requested font "[EBGaramond-Bold.otf]/OT:script=latn;language=dflt;+pnum;+onum;
 mapping=tex-text;" at 20.74pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramo
 nd/EBGaramond-Bold.otf
- [1
-
-] (../choicungbi/gapvacathinh.tex
+ [3]
+(../choicungbi/gapvacathinh.tex
 File: ../choicungbi/gapvacathinh//cat-1.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-1.pdf>
 File: ../choicungbi/gapvacathinh//cat-2a.jpg Graphic file (type bmp)
@@ -1598,7 +1600,7 @@ File: ../choicungbi/gapvacathinh//../gapvacathinh/toancuabi.pdf Graphic file (t
 ype pdf)
 <use ../choicungbi/gapvacathinh//../gapvacathinh/toancuabi.pdf>
 
-[2]
+[4]
 File: ../choicungbi/gapvacathinh//cat-4.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-4.pdf>
 File: ../choicungbi/gapvacathinh//cat-4a.pdf Graphic file (type pdf)
@@ -1613,7 +1615,7 @@ File: ../choicungbi/gapvacathinh//cat-5.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-5.pdf>
 File: ../choicungbi/gapvacathinh//cat-6.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-6.pdf>
- [3]
+ [5]
 File: ../choicungbi/gapvacathinh//cat-7a.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-7a.pdf>
 File: ../choicungbi/gapvacathinh//cat-8a.pdf Graphic file (type pdf)
@@ -1634,7 +1636,7 @@ File: ../choicungbi/gapvacathinh//cat-9c.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-9c.pdf>
 File: ../choicungbi/gapvacathinh//cat-9d.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-9d.pdf>
- [4]
+ [6]
 File: ../choicungbi/gapvacathinh//cat-10.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-10.pdf>
 File: ../choicungbi/gapvacathinh//cat-10a.pdf Graphic file (type pdf)
@@ -1657,7 +1659,7 @@ File: ../choicungbi/gapvacathinh//cat-13c.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-13c.pdf>
 File: ../choicungbi/gapvacathinh//cat-13d.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-13d.pdf>
- [5]
+ [7]
 File: ../choicungbi/gapvacathinh//cat-14.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-14.pdf>
 File: ../choicungbi/gapvacathinh//cat-15a.pdf Graphic file (type pdf)
@@ -1676,7 +1678,7 @@ File: ../choicungbi/gapvacathinh//cat-16c.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-16c.pdf>
 File: ../choicungbi/gapvacathinh//cat-16d.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-16d.pdf>
- [6]
+ [8]
 File: ../choicungbi/gapvacathinh//cat-17.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-17.pdf>
 File: ../choicungbi/gapvacathinh//cat-17a.pdf Graphic file (type pdf)
@@ -1689,7 +1691,7 @@ File: ../choicungbi/gapvacathinh//cat-17d.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-17d.pdf>
 File: ../choicungbi/gapvacathinh//cat-18.pdf Graphic file (type pdf)
 <use ../choicungbi/gapvacathinh//cat-18.pdf>
-) (../choicungbi/tangram.tex [7]
+) (../choicungbi/tangram.tex [9]
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 3.
 Requested font "[EBGaramond-Regular.otf]/OT:script=latn;language=dflt;+pnum;+on
@@ -1791,7 +1793,7 @@ File: ../choicungbi/tangram//../tangram/toancuaBi_2-tieude.pdf Graphic file (ty
 pe pdf)
 <use ../choicungbi/tangram//../tangram/toancuaBi_2-tieude.pdf>
 
-[8]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 \TU/EBGaramond(0)/m/n/14.4 Quốc. Theo tiếng Trung
  []
@@ -1809,8 +1811,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--97
  []
 
 
-Underfull \hbox (badness 7379) in paragraph at lines 87--97
-\TU/EBGaramond(0)/m/n/14.4 đã vượt ra khỏi Biên giới
+Underfull \hbox (badness 8170) in paragraph at lines 87--97
+\TU/EBGaramond(0)/m/n/14.4 đã vượt ra khỏi biên giới
  []
 
 
@@ -1818,7 +1820,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--97
 \TU/EBGaramond(0)/m/n/14.4 con tàu buôn của những
  []
 
-[9]
+[11]
 File: ../choicungbi/tangram//image9.jpg Graphic file (type bmp)
 <../choicungbi/tangram//image9.jpg>
 File: ../choicungbi/tangram//image10.jpg Graphic file (type bmp)
@@ -1827,7 +1829,7 @@ File: ../choicungbi/tangram//image11.jpg Graphic file (type bmp)
 <../choicungbi/tangram//image11.jpg>
 File: ../choicungbi/tangram//image12.jpg Graphic file (type bmp)
 <../choicungbi/tangram//image12.jpg>
- [10]
+ [12]
 File: ../choicungbi/tangram//image13.jpg Graphic file (type bmp)
 <../choicungbi/tangram//image13.jpg>
 
@@ -1837,7 +1839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--163
 
 File: ../choicungbi/tangram//cat-10.jpg Graphic file (type bmp)
 <../choicungbi/tangram//cat-10.jpg>
-) (../choicungbi/boxephinh.tex [11]
+) (../choicungbi/boxephinh.tex [13]
 File: ../choicungbi/boxephinh//1.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//1.jpg>
 File: ../choicungbi/boxephinh//2.jpg Graphic file (type bmp)
@@ -1846,7 +1848,7 @@ File: ../choicungbi/boxephinh//3.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//3.jpg>
 File: ../choicungbi/boxephinh//../boxephinh/tieude.pdf Graphic file (type pdf)
 <use ../choicungbi/boxephinh//../boxephinh/tieude.pdf>
- [12]
+ [14]
 File: ../choicungbi/boxephinh//4.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//4.jpg>
 File: ../choicungbi/boxephinh//5.jpg Graphic file (type bmp)
@@ -1864,10 +1866,10 @@ Overfull \hbox (1.21132pt too wide) in paragraph at lines 85--86
  [][] 
  []
 
-[13]
+[15]
 File: ../choicungbi/boxephinh//7.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//7.jpg>
- [14]
+ [16]
 File: ../choicungbi/boxephinh//8.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//8.jpg>
 File: ../choicungbi/boxephinh//8a.jpg Graphic file (type bmp)
@@ -1886,14 +1888,14 @@ Requested font "msam10" at 5.0pt
 Requested font "msbm10" at 5.0pt
 File: ../choicungbi/boxephinh//11.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//11.jpg>
- [15]
+ [17]
 File: ../choicungbi/boxephinh//12.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//12.jpg>
 File: ../choicungbi/boxephinh//13.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//13.jpg>
 File: ../choicungbi/boxephinh//13a.jpg Graphic file (type bmp)
 <../choicungbi/boxephinh//13a.jpg>
-) (../choicungbi/domino1.tex [16]
+) (../choicungbi/domino1.tex [18]
 File: ../choicungbi/domino1//dom-01.jpg Graphic file (type bmp)
 <../choicungbi/domino1//dom-01.jpg>
 File: ../choicungbi/domino1//dom-02.jpg Graphic file (type bmp)
@@ -1910,7 +1912,7 @@ File: ../choicungbi/domino1//dom-08.jpg Graphic file (type bmp)
 <../choicungbi/domino1//dom-08.jpg>
 File: ../choicungbi/domino1//../domino1/domino-td.pdf Graphic file (type pdf)
 <use ../choicungbi/domino1//../domino1/domino-td.pdf>
- [17]
+ [19]
 File: ../choicungbi/domino1//dom-09.jpg Graphic file (type bmp)
 <../choicungbi/domino1//dom-09.jpg>
 
@@ -1929,7 +1931,7 @@ File: ../choicungbi/domino1//dom-10b.jpg Graphic file (type bmp)
 <../choicungbi/domino1//dom-10b.jpg>
 File: ../choicungbi/domino1//dom-10c.jpg Graphic file (type bmp)
 <../choicungbi/domino1//dom-10c.jpg>
-[18]
+[20]
 File: ../choicungbi/domino1//h4a.jpg Graphic file (type bmp)
 <../choicungbi/domino1//h4a.jpg>
 File: ../choicungbi/domino1//h5a.jpg Graphic file (type bmp)
@@ -1946,27 +1948,27 @@ Underfull \hbox (badness 6173) in paragraph at lines 98--99
 
 File: ../choicungbi/domino1//h6-fix.jpg Graphic file (type bmp)
 <../choicungbi/domino1//h6-fix.jpg>
-[19]) (../choicungbi/domino2.tex
+[21]) (../choicungbi/domino2.tex
 File: ../choicungbi/domino2//h7a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h7a.jpg>
 File: ../choicungbi/domino2//h8a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h8a.jpg>
- [20]
+ [22]
 File: ../choicungbi/domino2//h9a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h9a.jpg>
 File: ../choicungbi/domino2//h10a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h10a.jpg>
- [21]
+ [23]
 File: ../choicungbi/domino2//h11a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h11a.jpg>
 File: ../choicungbi/domino2//h12a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h12a.jpg>
 File: ../choicungbi/domino2//h13a.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h13a.jpg>
- [22]
+ [24]
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [23]
+ [25]
 File: ../choicungbi/domino2//h9.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h9.jpg>
 File: ../choicungbi/domino2//h10.jpg Graphic file (type bmp)
@@ -1974,10 +1976,10 @@ File: ../choicungbi/domino2//h10.jpg Graphic file (type bmp)
 File: ../choicungbi/domino2//h11.jpg Graphic file (type bmp)
 <../choicungbi/domino2//h11.jpg>
 )
-[24]
+[26]
 File: ../dovui/Do_vui_Pi6_2021.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi6_2021.pdf>
- [25] [26] (../giaitoancungbi/robin.tex
+ [27] [28] (../giaitoancungbi/robin.tex
 Underfull \hbox (badness 6445) in paragraph at lines 12--13
 \TU/EBGaramond(0)/m/n/14.4 khám phá đảo “Xoắn ốc”.
  []
@@ -1993,23 +1995,23 @@ File: ../giaitoancungbi/robin//2.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//2.jpg>
 File: ../giaitoancungbi/robin//../robin/tieude.pdf Graphic file (type pdf)
 <use ../giaitoancungbi/robin//../robin/tieude.pdf>
-[27]
+[29]
 File: ../giaitoancungbi/robin//pic12.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//pic12.jpg>
- [28]
+ [30]
 File: ../giaitoancungbi/robin//pic13.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//pic13.jpg>
 File: ../giaitoancungbi/robin//5.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//5.jpg>
- [29]
+ [31]
 File: ../giaitoancungbi/robin//6.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//6.jpg>
- [30]
+ [32]
 File: ../giaitoancungbi/robin//pic11.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//pic11.jpg>
 File: ../giaitoancungbi/robin//8.jpg Graphic file (type bmp)
 <../giaitoancungbi/robin//8.jpg>
-) (../giaitoancungbi/traodoi.tex [31]
+) (../giaitoancungbi/traodoi.tex [33]
 File: ../giaitoancungbi/traodoi//pic3.jpg Graphic file (type bmp)
 <../giaitoancungbi/traodoi//pic3.jpg>
 
@@ -2032,7 +2034,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: ../giaitoancungbi/traodoi//../traodoi/tieude.pdf Graphic file (type pdf)
 <use ../giaitoancungbi/traodoi//../traodoi/tieude.pdf>
- [32]
+ [34]
 File: ../giaitoancungbi/traodoi//pic2.jpg Graphic file (type bmp)
 <../giaitoancungbi/traodoi//pic2.jpg>
 
@@ -2059,10 +2061,10 @@ File: ../giaitoancungbi/traodoi//pic4.jpg Graphic file (type bmp)
 <../giaitoancungbi/traodoi//pic4.jpg>
 File: ../giaitoancungbi/traodoi//pic6.jpg Graphic file (type bmp)
 <../giaitoancungbi/traodoi//pic6.jpg>
-[33]
+[35]
 File: ../giaitoancungbi/traodoi//pic5.jpg Graphic file (type bmp)
 <../giaitoancungbi/traodoi//pic5.jpg>
-) (../giaitoancungbi/mitdac.tex [34]
+) (../giaitoancungbi/mitdac.tex [36]
 File: ../giaitoancungbi/mitdac//Hinh0.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh0.jpg>
 
@@ -2074,7 +2076,7 @@ File: ../giaitoancungbi/mitdac//Hinh1_TPHoa.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh1_TPHoa.jpg>
 File: ../giaitoancungbi/mitdac//../mitdac/tieude.pdf Graphic file (type pdf)
 <use ../giaitoancungbi/mitdac//../mitdac/tieude.pdf>
-[35]
+[37]
 File: ../giaitoancungbi/mitdac//Hinh0_BietTuot.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh0_BietTuot.jpg>
 File: ../giaitoancungbi/mitdac//Hinh0_HoaGiay.jpg Graphic file (type bmp)
@@ -2089,7 +2091,7 @@ File: ../giaitoancungbi/mitdac//Hinh0_ThuocVien.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh0_ThuocVien.jpg>
 File: ../giaitoancungbi/mitdac//Hinh0_VienDan.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh0_VienDan.jpg>
- [36]
+ [38]
 File: ../giaitoancungbi/mitdac//Hinh3_KhiengNhacCu.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh3_KhiengNhacCu.jpg>
 
@@ -2097,16 +2099,16 @@ Underfull \hbox (badness 1412) in paragraph at lines 88--89
 \TU/EBGaramond(0)/m/n/14.4 đã rủ cả Mít Đặc, Biết
  []
 
-[37]
+[39]
 File: ../giaitoancungbi/mitdac//Hinh4_TaoLe.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh4_TaoLe.jpg>
 File: ../giaitoancungbi/mitdac//Hinh5.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh5.jpg>
- [38]
+ [40]
 File: ../giaitoancungbi/mitdac//Hinh6_Mit_dac_Thuoc_nuoc.jpg Graphic file (type
  bmp)
 <../giaitoancungbi/mitdac//Hinh6_Mit_dac_Thuoc_nuoc.jpg>
- [39] [40]
+ [41] [42]
 File: ../giaitoancungbi/mitdac//Hinh8_LayNhua.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh8_LayNhua.jpg>
 
@@ -2121,7 +2123,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 169--171
 
 File: ../giaitoancungbi/mitdac//Hinh9_KinhKhiCau.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh9_KinhKhiCau.jpg>
-[41]
+[43]
 File: ../giaitoancungbi/mitdac//Hinh23_KinhKhiCau.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh23_KinhKhiCau.jpg>
 
@@ -2155,24 +2157,24 @@ Underfull \hbox (badness 1824) in paragraph at lines 193--194
 \TU/EBGaramond(0)/m/n/14.4 thì đến thành phố mới lạ
  []
 
-[42]
+[44]
 File: ../giaitoancungbi/mitdac//Hinh11_ThanhPhoDieu.jpg Graphic file (type bmp)
 
 <../giaitoancungbi/mitdac//Hinh11_ThanhPhoDieu.jpg>
 File: ../giaitoancungbi/mitdac//Hinh24_NhaDinhOc.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh24_NhaDinhOc.jpg>
- [43]
+ [45]
 File: ../giaitoancungbi/mitdac//Hinh12_ChuyenTao.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh12_ChuyenTao.jpg>
- [44]
+ [46]
 File: ../giaitoancungbi/mitdac//Hinh13_Leu.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh13_Leu.jpg>
 File: ../giaitoancungbi/mitdac//Hinh14_SonRao.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh14_SonRao.jpg>
- [45]
+ [47]
 File: ../giaitoancungbi/mitdac//Hinh15_BachTuyet.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh15_BachTuyet.jpg>
- [46]
+ [48]
 Underfull \hbox (badness 1442) in paragraph at lines 274--275
 \TU/EBGaramond(0)/m/n/14.4 diễn nhạc, xa một chút là
  []
@@ -2200,7 +2202,7 @@ File: ../giaitoancungbi/mitdac//Hinh17_Domino.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [49]
 File: ../giaitoancungbi/mitdac//Hinh18_MitDac.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh18_MitDac.jpg>
 
@@ -2209,7 +2211,7 @@ Overfull \hbox (5.26443pt too wide) in paragraph at lines 295--303
 i buổi tiệc, khách khứa đều được tặng những
  []
 
-[48]
+[50]
 File: ../giaitoancungbi/mitdac//Hinh10_ThanhPhoXanh.jpg Graphic file (type bmp)
 
 <../giaitoancungbi/mitdac//Hinh10_ThanhPhoXanh.jpg>
@@ -2232,7 +2234,7 @@ Underfull \hbox (badness 2452) in paragraph at lines 325--326
 \TU/EBGaramond(0)/m/n/14.4 sau, hai bạn cùng đi sớm
  []
 
-[49]
+[51]
 File: ../giaitoancungbi/mitdac//Hinh20_TangTui.jpg Graphic file (type bmp)
 <../giaitoancungbi/mitdac//Hinh20_TangTui.jpg>
 
@@ -2268,33 +2270,30 @@ File: ../giaitoancungbi/mitdac//Hinh22_MitDacLamToan.jpg Graphic file (type bmp
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50])
-[51]
+ [52])
+[53]
 File: ../dovui/Do_vui_Pi7_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi7_2019.pdf>
- [52] [53] (../suyluancungbi/sumivachiecla.tex
-Overfull \hbox (3.75427pt too wide) in paragraph at lines 28--29
+ [54] [55] (../suyluancungbi/sumivachiecla.tex
+Overfull \hbox (3.75427pt too wide) in paragraph at lines 33--34
 \TU/EBGaramond(0)/m/n/14.4 chiếc mũ của con phải là màu đỏ ạ. – Sumi
  []
 
-File: ../suyluancungbi/sumi//sumitd.pdf Graphic file (type pdf)
-<use ../suyluancungbi/sumi//sumitd.pdf>
-File: ../suyluancungbi/sumi//cd1.jpg Graphic file (type bmp)
-<../suyluancungbi/sumi//cd1.jpg>
+File: ../suyluancungbi/sumi//sumi.pdf Graphic file (type pdf)
+<use ../suyluancungbi/sumi//sumi.pdf>
 File: ../suyluancungbi/sumi//h1.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h1.jpg>
-[54]
+[56]
 File: ../suyluancungbi/sumi//h2.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h2.jpg>
- [55]
 File: ../suyluancungbi/sumi//h3.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h3.jpg>
+ [57]
 File: ../suyluancungbi/sumi//h5.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h5.jpg>
- [56]
 File: ../suyluancungbi/sumi//h4.jpg Graphic file (type bmp)
 <../suyluancungbi/sumi//h4.jpg>
-) (../suyluancungbi/sudoku1.tex [57]
+) (../suyluancungbi/sudoku1.tex [58]
 File: ../suyluancungbi/sudoku1//hinh1.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh1.jpg>
 File: ../suyluancungbi/sudoku1//sudoku.jpg Graphic file (type bmp)
@@ -2302,12 +2301,12 @@ File: ../suyluancungbi/sudoku1//sudoku.jpg Graphic file (type bmp)
 File: ../suyluancungbi/sudoku1//../sudoku1/sudokutieude1.pdf Graphic file (type
  pdf)
 <use ../suyluancungbi/sudoku1//../sudoku1/sudokutieude1.pdf>
- [58]
+ [59]
 File: ../suyluancungbi/sudoku1//hinh2.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh2.jpg>
 File: ../suyluancungbi/sudoku1//hinh3.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh3.jpg>
- [59]
+ [60]
 File: ../suyluancungbi/sudoku1//hinh4.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh4.jpg>
 File: ../suyluancungbi/sudoku1//hinh5.jpg Graphic file (type bmp)
@@ -2323,7 +2322,17 @@ Underfull \hbox (badness 1655) in paragraph at lines 82--83
 \TU/EBGaramond(0)/m/n/14.4 chúng mình không thấy một
  []
 
-[60]
+
+Underfull \hbox (badness 1472) in paragraph at lines 82--83
+\TU/EBGaramond(0)/m/n/14.4 hàng hay một cột nào, mà ở
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 82--83
+\TU/EBGaramond(0)/m/n/14.4 đó đã có sẵn hai loại quả. Ở
+ []
+
+[61]
 File: ../suyluancungbi/sudoku1//hinh6a.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh6a.jpg>
 File: ../suyluancungbi/sudoku1//hinh6b.jpg Graphic file (type bmp)
@@ -2332,7 +2341,7 @@ File: ../suyluancungbi/sudoku1//hinh6c.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh6c.jpg>
 File: ../suyluancungbi/sudoku1//hinh7.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh7.jpg>
- [61]
+ [62]
 File: ../suyluancungbi/sudoku1//hinh8.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku1//hinh8.jpg>
 File: ../suyluancungbi/sudoku1//hinh10.jpg Graphic file (type bmp)
@@ -2347,12 +2356,12 @@ Overfull \hbox (2.81656pt too wide) in paragraph at lines 4--6
 nguyên thủy”
  []
 
-[62]
+[63]
 File: ../suyluancungbi/sudoku2//pic1.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic1.jpg>
 File: ../suyluancungbi/sudoku2//pic2.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic2.jpg>
- [63]
+ [64]
 File: ../suyluancungbi/sudoku2//pic3.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic3.jpg>
 
@@ -2390,7 +2399,7 @@ File: ../suyluancungbi/sudoku2//pic6.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 1796) has occurred while \output is active []
 
- [64]
+ [65]
 File: ../suyluancungbi/sudoku2//pic7.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic7.jpg>
 File: ../suyluancungbi/sudoku2//pic8.jpg Graphic file (type bmp)
@@ -2403,7 +2412,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 98--99
 
 Underfull \vbox (badness 2142) has occurred while \output is active []
 
- [65]
+ [66]
 File: ../suyluancungbi/sudoku2//pic9.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic9.jpg>
 File: ../suyluancungbi/sudoku2//pic10.jpg Graphic file (type bmp)
@@ -2413,7 +2422,7 @@ File: ../suyluancungbi/sudoku2//pic11.jpg Graphic file (type bmp)
 File: ../suyluancungbi/sudoku2//pic12.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic12.jpg>
 
-[66]
+[67]
 File: ../suyluancungbi/sudoku2//pic13.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic13.jpg>
 
@@ -2432,7 +2441,7 @@ File: ../suyluancungbi/sudoku2//pic15.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic15.jpg>
 File: ../suyluancungbi/sudoku2//pic16.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic16.jpg>
-[67]
+[68]
 File: ../suyluancungbi/sudoku2//pic17.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic17.jpg>
 File: ../suyluancungbi/sudoku2//pic18.jpg Graphic file (type bmp)
@@ -2441,11 +2450,11 @@ File: ../suyluancungbi/sudoku2//pic21.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic21.jpg>
 File: ../suyluancungbi/sudoku2//pic22.jpg Graphic file (type bmp)
 <../suyluancungbi/sudoku2//pic22.jpg>
-) (../suyluancungbi/xuanphong.tex [68]
+) (../suyluancungbi/xuanphong.tex [69]
 File: ../suyluancungbi/xuanphong//../xuanphong/xuanphong.pdf Graphic file (type
  pdf)
 <use ../suyluancungbi/xuanphong//../xuanphong/xuanphong.pdf>
- [69]
+ [70]
 Overfull \hbox (0.38785pt too wide) in paragraph at lines 50--51
 \TU/EBGaramond(0)/m/n/14.4 khu ở của người bản địa thuộc một bộ lạc. Đường đi x
 uống thung
@@ -2458,17 +2467,17 @@ File: ../suyluancungbi/xuanphong//2.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 7468) has occurred while \output is active []
 
- [70]
+ [71]
 File: ../suyluancungbi/xuanphong//3.jpg Graphic file (type bmp)
 <../suyluancungbi/xuanphong//3.jpg>
 
-[71]
+[72]
 Overfull \hbox (15.50786pt too wide) in paragraph at lines 115--116
 \TU/EBGaramond(0)/m/n/14.4 Rico an toàn trong sự hân hoan đón chào của ng
 ười dân địa phương,
  []
 
-[72]
+[73]
 Overfull \hbox (2.01024pt too wide) in paragraph at lines 119--120
 \TU/EBGaramond(0)/m/n/14.4 nào chúng tôi cũng gặp những tình huống như trên, đô
 i khi Xuân
@@ -2477,21 +2486,21 @@ i khi Xuân
 
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [73]
-[74]
+ [74]
+[75]
 File: ../suyluancungbi/xuanphong//4.jpg Graphic file (type bmp)
 <../suyluancungbi/xuanphong//4.jpg>
- [75]
+ [76]
 File: ../suyluancungbi/xuanphong//5.jpg Graphic file (type bmp)
 <../suyluancungbi/xuanphong//5.jpg>
 
 Underfull \vbox (badness 7468) has occurred while \output is active []
 
- [76])
-[77]
+ [77])
+[78]
 File: ../dovui/Do_vui_Pi6_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi6_2019.pdf>
- [78] [79] (../timhieucungbi/quansatcackhoihinh.tex
+ [79] [80] (../timhieucungbi/quansatcackhoihinh.tex
 Package mdframed Info: mdframed works in twoside mode on input line 12.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2524,7 +2533,7 @@ File: ../timhieucungbi/quansatcackhoihinh//7c.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//7c.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//tieude3.pdf Graphic file (type pdf)
 <use ../timhieucungbi/quansatcackhoihinh//tieude3.pdf>
-[80]
+[81]
 Package mdframed Info: mdframed works in twoside mode on input line 77.
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
@@ -2553,7 +2562,7 @@ File: ../timhieucungbi/quansatcackhoihinh//14.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//14.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//12.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//12.jpg>
- [81]
+ [82]
 File: ../timhieucungbi/quansatcackhoihinh//15a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//15a.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//15b.jpg Graphic file (type bmp)
@@ -2573,7 +2582,7 @@ File: ../timhieucungbi/quansatcackhoihinh//16a.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 1917) has occurred while \output is active []
 
- [82]
+ [83]
 File: ../timhieucungbi/quansatcackhoihinh//19a.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//19a.jpg>
 File: ../timhieucungbi/quansatcackhoihinh//19b.jpg Graphic file (type bmp)
@@ -2583,7 +2592,7 @@ File: ../timhieucungbi/quansatcackhoihinh//19c.jpg Graphic file (type bmp)
 File: ../timhieucungbi/quansatcackhoihinh//20.jpg Graphic file (type bmp)
 <../timhieucungbi/quansatcackhoihinh//20.jpg>
 )
-(../timhieucungbi/hoclamthamtu.tex [83]
+(../timhieucungbi/hoclamthamtu.tex [84]
 File: ../timhieucungbi/hoclamthamtu//pic1.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic1.jpg>
 
@@ -2612,7 +2621,7 @@ nd(0)/m/n/14.4 nằm ở hướng
 
 File: ../timhieucungbi/hoclamthamtu//tieude.pdf Graphic file (type pdf)
 <use ../timhieucungbi/hoclamthamtu//tieude.pdf>
-[84]
+[85]
 File: ../timhieucungbi/hoclamthamtu//pic3.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic3.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic4.jpg Graphic file (type bmp)
@@ -2627,12 +2636,12 @@ Underfull \hbox (badness 1910) in paragraph at lines 55--56
 \TU/EBGaramond(0)/m/n/14.4 mình sẽ thể hiện cái
  []
 
-[85]
+[86]
 File: ../timhieucungbi/hoclamthamtu//pic5.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic5.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic6.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic6.jpg>
- [86]
+ [87]
 File: ../timhieucungbi/hoclamthamtu//pic7.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic7.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic8.jpg Graphic file (type bmp)
@@ -2642,7 +2651,7 @@ File: ../timhieucungbi/hoclamthamtu//pic9.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 4995) has occurred while \output is active []
 
- [87]
+ [88]
 File: ../timhieucungbi/hoclamthamtu//pic10.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic10.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic11.jpg Graphic file (type bmp)
@@ -2652,7 +2661,7 @@ File: ../timhieucungbi/hoclamthamtu//pic12.jpg Graphic file (type bmp)
 File: ../timhieucungbi/hoclamthamtu//pic13.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic13.jpg>
 
-[88]
+[89]
 File: ../timhieucungbi/hoclamthamtu//pic14.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic14.jpg>
 
@@ -2671,7 +2680,7 @@ File: ../timhieucungbi/hoclamthamtu//pic15.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic15.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic16.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic16.jpg>
-[89]
+[90]
 File: ../timhieucungbi/hoclamthamtu//pic17.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic17.jpg>
 File: ../timhieucungbi/hoclamthamtu//pic18.jpg Graphic file (type bmp)
@@ -2683,13 +2692,13 @@ d(0)/m/n/14.4 Trong Hình $\OT1/ztmcm/m/n/14.4 21$\TU/EBGaramond(0)/m/n/14.4 , n
 gười quan sát đứng quay mặt về hướng
  []
 
-[90]
+[91]
 File: ../timhieucungbi/hoclamthamtu//pic19.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic19.jpg>
- [91]
+ [92]
 File: ../timhieucungbi/hoclamthamtu//pic25.jpg Graphic file (type bmp)
 <../timhieucungbi/hoclamthamtu//pic25.jpg>
-) (../timhieucungbi/demtamgiac1.tex [92]
+) (../timhieucungbi/demtamgiac1.tex [93]
 File: ../timhieucungbi/demtamgiac1//Tam_giac_1.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_1.jpg>
 File: ../timhieucungbi/demtamgiac1//Tam_giac_2.jpg Graphic file (type bmp)
@@ -2707,7 +2716,7 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_3_giai.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_3_giai.jpg>
 File: ../timhieucungbi/demtamgiac1//tieude.pdf Graphic file (type pdf)
 <use ../timhieucungbi/demtamgiac1//tieude.pdf>
- [93] [94]
+ [94] [95]
 File: ../timhieucungbi/demtamgiac1//Tam_giac_4.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_4.jpg>
 File: ../timhieucungbi/demtamgiac1//Tam_giac_5.jpg Graphic file (type bmp)
@@ -2718,7 +2727,7 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_7.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_7.jpg>
 File: ../timhieucungbi/demtamgiac1//Tam_giac_8.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_8.jpg>
- [95]
+ [96]
 Overfull \hbox (1.8016pt too wide) in paragraph at lines 143--159
  [][] 
  []
@@ -2732,7 +2741,7 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_7_giai.jpg Graphic file (type bmp)
 File: ../timhieucungbi/demtamgiac1//Tam_giac_8_giai.jpg Graphic file (type bmp)
 
 <../timhieucungbi/demtamgiac1//Tam_giac_8_giai.jpg>
-[96]
+[97]
 File: ../timhieucungbi/demtamgiac1//Tam_giac_9.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_9.jpg>
 File: ../timhieucungbi/demtamgiac1//Tam_giac_10.jpg Graphic file (type bmp)
@@ -2760,7 +2769,7 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_12_giai.jpg Graphic file (type bmp
 
 Underfull \vbox (badness 1226) has occurred while \output is active []
 
- [97]
+ [98]
 File: ../timhieucungbi/demtamgiac1//Tam_giac_13_giai.jpg Graphic file (type bmp
 )
 <../timhieucungbi/demtamgiac1//Tam_giac_13_giai.jpg>
@@ -2772,7 +2781,7 @@ File: ../timhieucungbi/demtamgiac1//Tam_giac_15.jpg Graphic file (type bmp)
 File: ../timhieucungbi/demtamgiac1//Tam_giac_16.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac1//Tam_giac_16.jpg>
 )
-(../timhieucungbi/demtamgiac2.tex [98]
+(../timhieucungbi/demtamgiac2.tex [99]
 File: ../timhieucungbi/demtamgiac2//Hinh23.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//Hinh23.jpg>
 File: ../timhieucungbi/demtamgiac2//Hinh24.jpg Graphic file (type bmp)
@@ -2787,7 +2796,7 @@ File: ../timhieucungbi/demtamgiac2//HinhHX11.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//HinhHX11.jpg>
 File: ../timhieucungbi/demtamgiac2//HinhHX2.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//HinhHX2.jpg>
- [99]
+ [100]
 Overfull \hbox (15.23306pt too wide) in paragraph at lines 57--66
 [][] 
  []
@@ -2810,7 +2819,7 @@ File: ../timhieucungbi/demtamgiac2//Hinh25_1.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//Hinh25_1.jpg>
 File: ../timhieucungbi/demtamgiac2//QuyLuat.jpg Graphic file (type bmp)
 <../timhieucungbi/demtamgiac2//QuyLuat.jpg>
-[100]
+[101]
 Overfull \hbox (15.24826pt too wide) in paragraph at lines 143--145
 \TU/EBGaramond(0)/m/n/14.4 Như vậy số tam giác trong Hình $\OT1/ztmcm/m/n/14.4 
 19$ \TU/EBGaramond(0)/m/n/14.4 là: $[][] \OT1/ztmcm/m/n/14.4 + [][] =
@@ -2823,10 +2832,10 @@ Overfull \hbox (13.5482pt too wide) in paragraph at lines 179--179
 OT1/ztmcm/m/n/14.4 2\OML/ztmcm/m/it/14.4 ; [] ; n \OMS/ztmcm/m/n/14.4 ^^@
  []
 
-[101]) [102]
+[102]) [103]
 File: ../dovui/Do_vui_Pi8_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi8_2019.pdf>
- [103] [104] (../timhieulichsu/timhieulichsu.tex
+ [104] [105] (../timhieulichsu/timhieulichsu.tex
 File: ../timhieulichsu/pic//1.1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//1.1.jpg>
 File: ../timhieulichsu/pic//2.1.jpg Graphic file (type bmp)
@@ -2838,11 +2847,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--30
 
 File: ../timhieulichsu/tieude.pdf Graphic file (type pdf)
 <use ../timhieulichsu/tieude.pdf>
-[105]
+[106]
 Underfull \vbox (badness 3439) has occurred while \output is active []
 
- [106]
-[107]
+ [107]
+[108]
 File: ../timhieulichsu/pic//1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//1.jpg>
 LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
@@ -2881,7 +2890,7 @@ File: ../timhieulichsu/pic//20.12-pi.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//20.12-pi.jpg>
 File: ../timhieulichsu/tieude2.pdf Graphic file (type pdf)
 <use ../timhieulichsu/tieude2.pdf>
-[108]
+[109]
 File: ../timhieulichsu/pic//2.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//2.jpg>
 File: ../timhieulichsu/pic//3.jpg Graphic file (type bmp)
@@ -2918,7 +2927,7 @@ File: ../timhieulichsu/pic//3.1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//3.1.jpg>
 File: ../timhieulichsu/pic//20.12-pi.1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//20.12-pi.1.jpg>
- [109]
+ [110]
 Underfull \hbox (badness 1087) in paragraph at lines 136--137
 \TU/EBGaramond(0)/m/n/14.4 ngay trước hàng đơn vị và lớn gấp
  []
@@ -2971,10 +2980,10 @@ File: ../timhieulichsu/pic//13.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//13.jpg>
 File: ../timhieulichsu/pic//14a.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//14a.jpg>
-[110]
+[111]
 File: ../timhieulichsu/pic//17.1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//17.1.jpg>
- [111]
+ [112]
 File: ../timhieulichsu/pic//15.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//15.jpg>
 File: ../timhieulichsu/pic//16.jpg Graphic file (type bmp)
@@ -3009,7 +3018,7 @@ File: ../timhieulichsu/pic//15.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//15.jpg>
 File: ../timhieulichsu/pic//20.12-pi.2.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//20.12-pi.2.jpg>
- [112]
+ [113]
 File: ../timhieulichsu/pic//16.1.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//16.1.jpg>
 File: ../timhieulichsu/pic//15.jpg Graphic file (type bmp)
@@ -3021,7 +3030,7 @@ Underfull \hbox (badness 2529) in paragraph at lines 241--242
 
 File: ../timhieulichsu/pic//27a.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//27a.jpg>
-[113]
+[114]
 File: ../timhieulichsu/pic//27a.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//27a.jpg>
 File: ../timhieulichsu/pic//22a.jpg Graphic file (type bmp)
@@ -3050,7 +3059,7 @@ File: ../timhieulichsu/pic//27c.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//27c.jpg>
 File: ../timhieulichsu/pic//27.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//27.jpg>
- [114]
+ [115]
 File: ../timhieulichsu/pic//28.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//28.jpg>
 
@@ -3085,7 +3094,7 @@ File: ../timhieulichsu/pic//38.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//38.jpg>
 File: ../timhieulichsu/pic//39.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//39.jpg>
-[115]
+[116]
 File: ../timhieulichsu/pic//32.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//32.jpg>
 File: ../timhieulichsu/pic//40.jpg Graphic file (type bmp)
@@ -3094,7 +3103,7 @@ File: ../timhieulichsu/pic//41.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//41.jpg>
 File: ../timhieulichsu/pic//42.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//42.jpg>
- [116]
+ [117]
 File: ../timhieulichsu/pic//20.12-pi.3.jpg Graphic file (type bmp)
 <../timhieulichsu/pic//20.12-pi.3.jpg>
 
@@ -3110,13 +3119,19 @@ Underfull \hbox (badness 3333) in paragraph at lines 414--415
 Requested font "[lmmono12-regular]:" at 14.4pt
  -> C:/Users/iamsi/AppData/Local/Programs/MiKTeX/fonts/opentype/public/lm/lmmon
 o12-regular.otf
-) [117]
+) [118]
 File: ../dovui/Do_vui_Pi9_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi9_2019.pdf>
- [118] [119] (../bidithi/bidithi.tex
-Overfull \hbox (0.89178pt too wide) in paragraph at lines 8--9
-\TU/EBGaramond(0)/m/n/14.4 Asia Pacific Mathematical Olympiad for Primary Schoo
-ls), IMSO
+ [119] [120] (../bidithi/bidithi.tex
+Overfull \hbox (6.3724pt too wide) in paragraph at lines 8--9
+\TU/EBGaramond(0)/m/n/14.4 nay như IMAS (International Mathematics Assessment),
+ Apmops
+ []
+
+
+Overfull \hbox (0.18042pt too wide) in paragraph at lines 8--9
+\TU/EBGaramond(0)/m/n/14.4 IMSO (The International Mathematics and Science Olym
+piad)... 
  []
 
 File: ../bidithi/pic//1.jpg Graphic file (type bmp)
@@ -3130,7 +3145,7 @@ Overfull \hbox (2.95753pt too wide) in paragraph at lines 32--33
 
 File: ../bidithi/tieude.pdf Graphic file (type pdf)
 <use ../bidithi/tieude.pdf>
-[120]
+[121]
 File: ../bidithi/pic//3.jpg Graphic file (type bmp)
 <../bidithi/pic//3.jpg>
 
@@ -3147,7 +3162,7 @@ Overfull \hbox (2.95753pt too wide) in paragraph at lines 57--59
 
 File: ../bidithi/pic//5.jpg Graphic file (type bmp)
 <../bidithi/pic//5.jpg>
-[121]
+[122]
 Overfull \hbox (3.18254pt too wide) detected at line 78
 []
  []
@@ -3166,7 +3181,7 @@ Overfull \hbox (2.36525pt too wide) in paragraph at lines 194--195
 /EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
  []
 
-[122]
+[123]
 Overfull \hbox (2.36525pt too wide) in paragraph at lines 211--212
 []$\OT1/ztmcm/m/n/14.4 8$ \TU/EBGaramond(0)/m/n/14.4 ký tự $\OT1/ztmcm/m/n/14.4
  2\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm/m/n/14.4 0\OML/ztmcm/m/it/14.4 ; \OT1/ztmcm
@@ -3175,30 +3190,31 @@ Overfull \hbox (2.36525pt too wide) in paragraph at lines 211--212
 /EBGaramond(0)/m/n/14.4 hàng. Hỏi có bao nhiêu
  []
 
-[123] [124] [125]
+[124] [125] [126]
 Overfull \hbox (6.94412pt too wide) in paragraph at lines 390--392
  [][] 
  []
 
-[126] [127] [128] [129] [130] [131]) [132]
+[127] [128] [129] [130] [131] [132]) [133]
 File: ../dovui/Do_vui_Pi11_2019.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi11_2019.pdf>
- [133]
+ [134]
 File: ../dovui/Do_vui_Pi4_2020.pdf Graphic file (type pdf)
 <use ../dovui/Do_vui_Pi4_2020.pdf>
- [134] [135]
-(../loigiai/loigiai.tex [136]
+ [135] [136]
+(../loigiai/loigiai.tex [137]
 File: ../loigiai/pic//1.jpg Graphic file (type bmp)
 <../loigiai/pic//1.jpg>
 File: ../loigiai/pic//2.jpg Graphic file (type bmp)
 <../loigiai/pic//2.jpg>
- [137] [138] [139]
+ [138] [139] [140]
 File: ../loigiai/pic//3.jpg Graphic file (type bmp)
 <../loigiai/pic//3.jpg>
 File: ../loigiai/pic//4.jpg Graphic file (type bmp)
 <../loigiai/pic//4.jpg>
 File: ../loigiai/pic//5.jpg Graphic file (type bmp)
 <../loigiai/pic//5.jpg>
+ [141]
 File: ../loigiai/pic//6.jpg Graphic file (type bmp)
 <../loigiai/pic//6.jpg>
 File: ../loigiai/pic//5.jpg Graphic file (type bmp)
@@ -3221,32 +3237,32 @@ File: ../loigiai/pic//4.jpg Graphic file (type bmp)
 <../loigiai/pic//4.jpg>
 File: ../loigiai/pic//5.jpg Graphic file (type bmp)
 <../loigiai/pic//5.jpg>
- [140]
 File: ../loigiai/pic//7.jpg Graphic file (type bmp)
 <../loigiai/pic//7.jpg>
- [141] [142]
+ [142] [143]
 File: ../loigiai/pic//8.jpg Graphic file (type bmp)
 <../loigiai/pic//8.jpg>
- [143]
-[144]
+ [144]
+[145]
 File: ../loigiai/pic//9.jpg Graphic file (type bmp)
 <../loigiai/pic//9.jpg>
-
-Overfull \hbox (0.58911pt too wide) in paragraph at lines 339--340
+ [146]
+Overfull \hbox (0.58911pt too wide) in paragraph at lines 362--363
 []$\OT1/ztmcm/m/n/14.4 +)$ \TU/EBGaramond(0)/m/n/14.4 Nếu Ngộ Nhỡ chuyển được $
 \OT1/ztmcm/m/n/14.4 7$ \TU/EBGaramond(0)/m/n/14.4 quả táo thì khi đó Nhanh Nhảu
 
  []
 
-[145] [146] [147] [148]
+[147] [148] [149] [150]
 File: ../loigiai/pic//13.jpg Graphic file (type bmp)
 <../loigiai/pic//13.jpg>
- [149] [150]
+ [151]
 File: ../loigiai/pic//15.jpg Graphic file (type bmp)
 <../loigiai/pic//15.jpg>
+ [152]
 File: ../loigiai/pic//16.jpg Graphic file (type bmp)
 <../loigiai/pic//16.jpg>
- [151] [152]
+ [153] [154]
 File: ../loigiai/pic//sudoku1.jpg Graphic file (type bmp)
 <../loigiai/pic//sudoku1.jpg>
 File: ../loigiai/pic//sudoku2.jpg Graphic file (type bmp)
@@ -3259,25 +3275,11 @@ File: ../loigiai/pic//sudoku5.jpg Graphic file (type bmp)
 <../loigiai/pic//sudoku5.jpg>
 File: ../loigiai/pic//sudoku6.jpg Graphic file (type bmp)
 <../loigiai/pic//sudoku6.jpg>
- [153]
-Overfull \hbox (3.49155pt too wide) in paragraph at lines 642--643
-\TU/EBGaramond(0)/m/n/14.4 OTI KAF KIR” thì ta nhận thấy chúng có chung từ “KIR
-”. Trong
- []
-
-[154] [155]
-Underfull \vbox (badness 1789) has occurred while \output is active []
-
- [156]
-[157]
+ [155] [156] [157] [158]
+[159]
 File: ../loigiai/pic//bando.jpg Graphic file (type bmp)
 <../loigiai/pic//bando.jpg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 760--763
-
- []
-
-[158] [159]) [160] (main.aux)
+ [160] [161] [162]) [163] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
@@ -3291,12 +3293,12 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### simple group (level 1) entered at line 35 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 36388 strings out of 410969
- 774827 string characters out of 2823811
- 954793 words of memory out of 3000000
- 56441 multiletter control sequences out of 15000+600000
+ 36366 strings out of 410969
+ 774369 string characters out of 2823811
+ 953761 words of memory out of 3000000
+ 56419 multiletter control sequences out of 15000+600000
  506274 words of font info for 137 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 109i,18n,118p,1288b,1195s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 109i,19n,118p,1288b,1199s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (160 pages).
+Output written on main.pdf (163 pages).
